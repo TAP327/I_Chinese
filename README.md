@@ -118,18 +118,6 @@ git clone git@github.com:TAP327/I_Chinese.git
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-### Command Line Usage (Backend)
-```bash
-$ ByteAgent -h
-usage: ByteAgent [-h]
-
-options:
-  -h, --help            show this help message and exit
-```
-
-### UI Usage (LLM)
-```bash
-streamlit run src/byte_agent_code/__main.py
 ```
 
 _For more examples, please refer to the [Documentation](https://example.com)_
@@ -148,13 +136,6 @@ using mkdocs.
 ```bash
 git clone git@github.com:TAP327/I_Chinese.git
 
-cd ByteAgent/
-python -m venv <envname>
-source <envname>/bin/activate
-
-pip install -e .[dev]
-
-mkdocs serve
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
