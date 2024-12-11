@@ -1,0 +1,107 @@
+{
+    "version": 3,
+    "cmakeMinimumRequired": {
+        "major": 3,
+        "minor": 30
+    },
+    "configurePresets": [
+        {
+            "name": "linux-debug",
+            "generator": "Unix Makefiles",
+            "binaryDir": "build/linux-debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "description": "Debug build for Linux using the Unix Makefiles generator."
+        },
+        {
+            "name": "linux-release",
+            "generator": "Unix Makefiles",
+            "binaryDir": "build/linux-release",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release"
+            },
+            "description": "Release build for Linux using the Unix Makefiles generator."
+        },
+        {
+            "name": "windows-debug",
+            "generator": "MinGW Makefiles",
+            "binaryDir": "build/windows-debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "description": "Debug build for Windows using the MinGW Makefiles generator."
+        },
+        {
+            "name": "windows-release",
+            "generator": "MinGW Makefiles",
+            "binaryDir": "build/windows-release",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release"
+            },
+            "description": "Release build for Windows using the MinGW Makefiles generator."
+        },
+        {
+            "name": "macos-debug",
+            "generator": "Unix Makefiles",
+            "binaryDir": "build/macos-debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Debug"
+            },
+            "description": "Debug build for macOS using the Unix Makefiles generator."
+        },
+        {
+            "name": "macos-release",
+            "generator": "Unix Makefiles",
+            "binaryDir": "build/linux-debug",
+            "cacheVariables": {
+                "CMAKE_BUILD_TYPE": "Release"
+            },
+            "description": "Release build for macOS using the Unix Makefiles generator."
+        }
+    ],
+    "buildPresets": [
+        {
+            "name": "linux-debug-build",
+            "configurePreset": "linux-debug",
+            "jobs": 8,
+            "verbose": true,
+            "description": "Build preset for Linux debug."
+        },
+        {
+            "name": "linux-release-build",
+            "configurePreset": "linux-release",
+            "jobs": 8,
+            "verbose": true,
+            "description": "Build preset for Linux release."
+        },
+        {
+            "name": "windows-debug-build",
+            "configurePreset": "windows-debug",
+            "jobs": 4,
+            "verbose": true,
+            "description": "Build preset for Windows debug."
+        },
+        {
+            "name": "windows-release-build",
+            "configurePreset": "windows-release",
+            "jobs": 4,
+            "verbose": true,
+            "description": "Build preset for Windows release."
+        },
+        {
+            "name": "macos-debug-build",
+            "configurePreset": "macos-debug",
+            "jobs": 4,
+            "verbose": true,
+            "description": "Build preset for macOS debug."
+        },
+        {
+            "name": "macos-release-build",
+            "configurePreset": "macos-release",
+            "jobs": 4,
+            "verbose": true,
+            "description": "Build preset for macOS release."
+        }
+    ]
+}
