@@ -180,6 +180,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 TAP327
+
 NDJSec - [@NicolasJanis1](https://twitter.com/NicolasJanis1) - nicolas.d.janis@gmail.com
 
 Project Link: [https://github.com/TAP327/I_Chinese](https://github.com/TAP327/I_Chinese)
