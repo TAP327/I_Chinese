@@ -4,8 +4,16 @@ name: CMake on multiple platforms
 
 on:
   push:
+    paths-ignore: 
+      - '.gitignore'
+      - 'README.md'
+      - 'LICENSE'
     branches: [ "main" ]
   pull_request:
+    paths-ignore: 
+      - '.gitignore'
+      - 'README.md'
+      - 'LICENSE'
     branches: [ "main" ]
 
 jobs:
