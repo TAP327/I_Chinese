@@ -53,7 +53,7 @@
         {
             "name": "macos-release",
             "generator": "Unix Makefiles",
-            "binaryDir": "build/linux-debug",
+            "binaryDir": "build/macos-release",
             "cacheVariables": {
                 "CMAKE_BUILD_TYPE": "Release"
             },
