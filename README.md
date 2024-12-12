@@ -22,7 +22,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![LinkedIn - Nicolas Janis][linkedin-shield-nj]][linkedin-url-nj]
+[![LinkedIn - Taylor Perry][linkedin-shield-tp]][linkedin-url-tp]
 
 
 
@@ -89,8 +90,9 @@ Project Description
 
 ### Built With
 
-* [![C][C]][C-url]
+* ![C][C]
 * [![SDL][SDL]][SDL-url]
+* ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -119,7 +121,7 @@ git clone git@github.com:TAP327/I_Chinese.git
 ## Usage
 
 ```
-
+```
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -191,9 +193,6 @@ Project Link: [https://github.com/TAP327/I_Chinese](https://github.com/TAP327/I_
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Frida](https://frida.re/)
-* [AndroGuard](https://github.com/androguard/androguard)
-* [Mallodroid](https://github.com/sfahl/mallodroid)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -211,8 +210,11 @@ Project Link: [https://github.com/TAP327/I_Chinese](https://github.com/TAP327/I_
 [issues-url]: https://github.com/TAP327/I_Chinese/issues
 [license-shield]: https://img.shields.io/github/license/TAP327/I_Chinese.svg?style=for-the-badge
 [license-url]: https://github.com/TAP327/I_Chinese/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/nicolas-janis/
+[linkedin-shield-nj]: https://img.shields.io/badge/-Nicolas_Janis-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield-tp]: https://img.shields.io/badge/-Taylor_Perry-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url-nj]: https://www.linkedin.com/in/nicolas-janis/
+[linkedin-url-tp]: https://www.linkedin.com/in/taylor-perry-950684285/
 [product-screenshot]: images/screenshot.png
-[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[Python-url]: https://www.python.org/
+[C]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
+[SDL]: https://img.shields.io/badge/SDL-blue
+[SDL-url]: https://www.libsdl.org/
