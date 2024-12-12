@@ -27,22 +27,18 @@ jobs:
         build_type: [Release]
         include:
           - os: ubuntu-latest
+            sdl_command: sudo apt update -y -qq && sudo apt install libsdl2-dev -y
             preset: linux-release
           - os: macos-latest
+            sdl_command: brew install sdl2
             preset: macos-release
 
     steps:
     - uses: actions/checkout@v4
 
-    - name: Setup SDL (Linux)
-      if: $${{ matrix.os == 'ubtuntu-latest' }}
+    - name: Setup SDL2
       run: |
-        sudo apt update -y -qq
-        sudo apt install libsdl2-dev -y
-    
-    - name: Setup SDL (Mac)
-      if: $${{ matrix.os == 'macos-latest'}}
-      run: brew install SDL2
+        echo ${{ matrix.sdl_command }}
 
     - name: Set reusable strings
       # Turn repeated input strings (such as the build output directory) into step outputs. These step outputs can be used throughout the workflow file.
