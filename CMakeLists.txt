@@ -5,7 +5,7 @@ project(I_Chinese VERSION 0.1 LANGUAGES C)
 set(CMAKE_C_STANDARD 11)
 set(CMAKE_C_STANDARD_REQUIRED ON)
 
-find_package(SDL REQUIRED CONFIG)
+find_package(SDL2 REQUIRED CONFIG)
 
 add_executable(I_Chinese)
 

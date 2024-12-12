@@ -9,6 +9,12 @@ on:
     branches: [ "main" ]
 
 jobs:
+  sdl_linux:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup SDL
+        uses: libsdl-org/setup-sdl@v1
+
   build:
     runs-on: ${{ matrix.os }}
 
@@ -27,7 +33,7 @@ jobs:
         build_type: [Release]
         include:
           - os: ubuntu-latest
-            sdl_command: sudo apt install libsdl2-dev
+            sdl_command: SDL2
             preset: linux-release
           - os: macos-latest
             sdl_command: brew install sdl2
