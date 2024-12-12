@@ -27,7 +27,7 @@ jobs:
         build_type: [Release]
         include:
           - os: ubuntu-latest
-            sdl_command: sudo apt update -y -qq && sudo apt install libsdl2-dev -y
+            sdl_command: sudo apt install libsdl2-dev
             preset: linux-release
           - os: macos-latest
             sdl_command: brew install sdl2
