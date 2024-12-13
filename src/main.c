@@ -3,8 +3,14 @@
 #include <SDL.h>
 #include <SDL_timer.h>
 #include <stdint.h>
+#include "include/db/db.h"
 
 int main(void) {
+    sqlite3 *db_handle = init_db_engine("test.db");
+    if (!db_handle) {
+        printf("DB Handle not created");
+        return 1;
+    }
     // Attempt to initialize graphics and timer system.
     if (SDL_Init(SDL_INIT_VIDEO|SDL_INIT_TIMER) != 0) {
         printf("error initializing SDL: %s\n", SDL_GetError());
@@ -38,6 +44,7 @@ int main(void) {
      }
 
     // clean up resources before exiting.
+    close_db_engine(db_handle);
     SDL_DestroyWindow(window);
     SDL_Quit();
 }
