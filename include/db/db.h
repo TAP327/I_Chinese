@@ -6,5 +6,6 @@
 
 sqlite3 *init_db_engine(char *db);
 void close_db_engine(sqlite3 *db_handle);
+int8_t validate_db(sqlite3 *db_handle);
 
 #endif
