@@ -8,6 +8,7 @@ on:
       - '.gitignore'
       - 'README.md'
       - 'LICENSE'
+      - 'CODE_OF_CONDUCT.md'
     branches: [ "main" ]
   pull_request:
     paths-ignore: 
