@@ -28,7 +28,7 @@ int main(void) {
         "I _ Chinese",
         SDL_WINDOWPOS_CENTERED,
         SDL_WINDOWPOS_CENTERED,
-        640, 480, 0
+        640, 480, SDL_WINDOW_RESIZABLE|SDL_WINDOW_MAXIMIZED
     );
     if (!window) {
         printf("error creating window: %s\n", SDL_GetError());
@@ -40,10 +40,8 @@ int main(void) {
     bool running = true;
     while (running) {
         SDL_Event e;
-        while (SDL_PollEvent(&e) != 0)
-        {
-            if (e.type == SDL_QUIT)
-            {
+        while (SDL_PollEvent(&e) != 0) {
+            if (e.type == SDL_QUIT) {
                 running = false;
                 break;
             }
