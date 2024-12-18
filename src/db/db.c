@@ -16,6 +16,7 @@ const TABLE_SCHEMA TABLE_NAMES[2] = {
     }
 };
 
+
 sqlite3 *init_db_engine(char *db) {
     sqlite3 *db_handle;
     int8_t sql_error = 0;

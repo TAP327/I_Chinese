@@ -11,7 +11,6 @@ int main(void) {
         printf("DB Handle not created");
         return 1;
     }
-
     if (validate_db(db_handle) != SQLITE_OK) {
         fprintf(stderr, "Invalid DB please check DB file.\n");
         close_db_engine(db_handle);
