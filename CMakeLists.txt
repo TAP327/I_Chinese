@@ -25,4 +25,18 @@ target_include_directories(I_Chinese PRIVATE include
 
 target_compile_options(I_Chinese PRIVATE -Wall -Wextra -Wpedantic)
 
+set(ASSET_DIR "${CMAKE_SOURCE_DIR}/assets")
+
+# Copy assets to the build directory
+file(GLOB ASSETS_FILES "${ASSET_DIR}/*")
+
+# Copy the assets into the output folder (where the executable is built)
+foreach(ASSET ${ASSETS_FILES})
+    get_filename_component(ASSET_NAME ${ASSET} NAME)
+    add_custom_command(TARGET I_Chinese POST_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy_if_different
+        ${ASSET} $<TARGET_FILE_DIR:I_Chinese>/assets/${ASSET_NAME}
+    )
+endforeach()
+
 
