@@ -1,0 +1,28 @@
+site_name: I_Chinese
+theme:
+  name: material
+  repo_url: https://github.com/TAP327/I_Chinese
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - search.suggest
+
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+      primary: teal
+      accent: lime
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

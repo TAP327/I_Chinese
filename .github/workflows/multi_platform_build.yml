@@ -9,6 +9,8 @@ on:
       - 'README.md'
       - 'LICENSE'
       - 'CODE_OF_CONDUCT.md'
+      - 'docs/**'
+      - 'mkdocs.yml'
     branches: [ "main" ]
   pull_request:
     paths-ignore: 
