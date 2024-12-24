@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Welcome to I_Chinese
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+A tool to help you study HSK vocabulary in context.
 
-## Commands
+## About The Project
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+I_Chinese is a language study tool focused on learning languange in context.
+Designed as a tool for learning Chinese through context, I_Chinese provides
+a system where you can practice your chinese skills with real sentences.
+With controls for HSK level, starred words, and more I_Chinese gives a place
+you can continue your languge learning journey.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Built with C, SDL, and SQLite, I_Chinese is a fast lightweight tool for
+learning. Support support of Mac, Windows, and Linux I_Chinese is a simple
+click away in your Chinese learning journey. For more information, check
+out the rest of these docs to see how to get started and/or how to contribute
+to the project.
