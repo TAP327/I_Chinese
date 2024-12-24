@@ -76,7 +76,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Project Description
+I_Chinese is a language study tool focused on learning languange in context.
+Designed as a tool for learning Chinese through context, I_Chinese provides
+a system where you can practice your chinese skills with real sentences.
+With controls for HSK level, starred words, and more I_Chinese gives a place
+you can continue your languge learning journey.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
