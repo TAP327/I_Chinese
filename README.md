@@ -8,8 +8,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -24,8 +22,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn - Nicolas Janis][linkedin-shield-nj]][linkedin-url-nj]
 [![LinkedIn - Taylor Perry][linkedin-shield-tp]][linkedin-url-tp]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -47,8 +43,6 @@
     <a href="https://github.com/TAP327/I_Chinese/issues">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -101,17 +95,45 @@ Project Description
 
 <!-- GETTING STARTED -->
 ## Getting Started
-!TODO
+
+The easiest way to get started is to download the latest release for your system from the releases tab [here](https://github.com/TAP327/I_Chinese/releases) on Github.
+
+If you would like to contribute or build for an unsupported platform, you can follow these build instructions.
 
 ### Prerequisites
 
+* SDL
+* CMake
+* GCC/Clang
+
+### Linux Setup
+
+```bash
+sudo apt update
+sudo apt install cmake
+sudo apt install libsdl-dev
+```
+
+### Mac Setup
+
+```bash
+brew update
+brew install cmake
+brew install sdl2
+```
+
 ### Installation
+
 ```bash
 git clone git@github.com:TAP327/I_Chinese.git
 
-!TODO: Build instructions
+mkdir build
+cmake --preset={linux-release,macos-release,windows-release}
+cmake --build build/{linux-relealse, macos-release, windows-release}
 
 ```
+
+Note: Select the release you would like (i.e linux-release, macos-release, or window-release) when building.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,6 +144,7 @@ git clone git@github.com:TAP327/I_Chinese.git
 
 ```
 ```
+
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,15 +152,20 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- DOCS -->
 ## Read The Docs
+
 Currently, docs can only be served and viewed locally. To do so,
 follow the instructions below to set up and view the docs locally
 using mkdocs.
 
+### Docs Installation
 
-### Installation
 ```bash
+pip install mkdocs mkdocs-material
+
 git clone git@github.com:TAP327/I_Chinese.git
 
+cd I_Chinese
+mkdocs serve
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -193,10 +221,7 @@ Project Link: [https://github.com/TAP327/I_Chinese](https://github.com/TAP327/I_
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
