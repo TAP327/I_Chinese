@@ -34,7 +34,7 @@ def update_db(table: str, update_file: str) -> None:
         '''
     elif table == 'sentence':
         sql_statement = f'''
-            INSERT INTO word (id, chinese, pinyin, english)
+            INSERT INTO sentence (id, chinese, pinyin, english)
             VALUES (:id, :chinese, :pinyin, :english)
         '''
 
