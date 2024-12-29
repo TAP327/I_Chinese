@@ -1,0 +1,234 @@
+[
+    {
+        "id": 0,
+        "chinese": "爱",
+        "pinyin": "ai4",
+        "definition": "to like, to love, love",
+        "level": "1",
+        "sentences": "0, 1, 2, 34, 38"
+    },{
+        "id": 1,
+        "chinese": "八",
+        "pinyin": "ba1",
+        "definition": "eight",
+        "level": "1",
+        "sentences": "3, 4, 5"
+    },{
+        "id": 2,
+        "chinese": "爸爸",
+        "pinyin": "ba4ba5",
+        "definition": "dad",
+        "level": "1",
+        "sentences": "1, 6, 7, 8, 9"
+    },{
+        "id": 3,
+        "chinese": "杯子",
+        "pinyin": "bei1zi5",
+        "definition": "cup",
+        "level": "1",
+        "sentences": "10, 11"
+    },{
+        "id": 4,
+        "chinese": "北京",
+        "pinyin": "bei3jing1",
+        "definition": "Beijing (northern capital)",
+        "level": "1",
+        "sentences": "24, 25, 26"
+    },{
+        "id": 5,
+        "chinese": "本",
+        "pinyin": "ben3",
+        "definition": "notebook, origin, root, (CL: books)",
+        "level": "1",
+        "sentences": "12, 13, 14"
+    },{
+        "id": 6,
+        "chinese": "不客气",
+        "pinyin": "bu2ke4qi5",
+        "definition": "You're welcome",
+        "level": "1",
+        "sentences": "15"
+    },{
+        "id": 7,
+        "chinese": "不",
+        "pinyin": "bu4 or bu2",
+        "definition": "no, not",
+        "level": "1",
+        "sentences": "16, 17, 18, 19, 20, 21, 22, 23, 27"
+    },{
+        "id": 8,
+        "chinese": "菜",
+        "pinyin": "cai4",
+        "definition": "dish (type of food), vegetable",
+        "level": "1",
+        "sentences": "28"
+    },{
+        "id": 9,
+        "chinese": "茶",
+        "pinyin": "cha2",
+        "definition": "tea",
+        "level": "1",
+        "sentences": "23, 29"
+    },{
+        "id": 10,
+        "chinese": "吃",
+        "pinyin": "chi1",
+        "definition": "to eat",
+        "level": "1",
+        "sentences": "30, 31, 32, 33, 34, 35， 36, 37, 38, 39"
+    },{
+        "id": 11,
+        "chinese": "出租车",
+        "pinyin": "chu1zu1che1",
+        "definition": "taxi",
+        "level": "1",
+        "sentences": "40, 41"
+    },{
+        "id": 12,
+        "chinese": "打电话",
+        "pinyin": "da3dian4hua4",
+        "definition": "to call (on the phone, literally: hit phone)",
+        "level": "1",
+        "sentences": "42"
+    },{
+        "id": 13,
+        "chinese": "大",
+        "pinyin": "da4",
+        "definition": "big",
+        "level": "1",
+        "sentences": "43, 44, 45, 46, 55"
+    },{
+        "id": 14,
+        "chinese": "的",
+        "pinyin": "de5",
+        "definition": "of, (possessive particle), (structural particle)",
+        "level": "1",
+        "sentences": "2, 4, 33, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52， 55"
+    },{
+        "id": 15,
+        "chinese": "点",
+        "pinyin": "dian3",
+        "definition": "precise time, small amount, a little bit",
+        "level": "1",
+        "sentences": "5, 29, 54, 53, 54, 55, 56"
+    },{
+        "id": 16,
+        "chinese": "一月",
+        "pinyin": "yi2yue4",
+        "definition": "January",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 17,
+        "chinese": "二月",
+        "pinyin": "er4yue4",
+        "definition": "February",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 18,
+        "chinese": "三月",
+        "pinyin": "san1yue4",
+        "definition": "March",
+        "level": "1+",
+        "sentences": "3"
+    },{
+        "id": 19,
+        "chinese": "四月",
+        "pinyin": "si4yue4",
+        "definition": "April",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 20,
+        "chinese": "五月",
+        "pinyin": "wu3yue4",
+        "definition": "May",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 21,
+        "chinese": "六月",
+        "pinyin": "liu4yue4",
+        "definition": "June",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 22,
+        "chinese": "七月",
+        "pinyin": "qi1yue4",
+        "definition": "July",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 23,
+        "chinese": "八月",
+        "pinyin": "ba1yue4",
+        "definition": "August",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 24,
+        "chinese": "九月",
+        "pinyin": "jiu3yue4",
+        "definition": "September",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 25,
+        "chinese": "十月",
+        "pinyin": "shi2yue4",
+        "definition": "October",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 26,
+        "chinese": "十一月",
+        "pinyin": "shi2yi2yue4",
+        "definition": "November",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 27,
+        "chinese": "十二月",
+        "pinyin": "shi2er4yue4",
+        "definition": "December",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 28,
+        "chinese": "道",
+        "pinyin": "",
+        "definition": "",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 29,
+        "chinese": "早饭",
+        "pinyin": "zao3fan4",
+        "definition": "breakfast",
+        "level": "1+",
+        "sentences": "32"
+    },{
+        "id": 30,
+        "chinese": "午饭",
+        "pinyin": "wu3fan4",
+        "definition": "lunch",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 31,
+        "chinese": "晚饭",
+        "pinyin": "wan3fan4",
+        "definition": "dinner",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 32,
+        "chinese": "电话",
+        "pinyin": "dian4hua4",
+        "definition": "phone",
+        "level": "1+",
+        "sentences": "4, 41, 42"
+    }
+]
