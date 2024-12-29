@@ -40,3 +40,22 @@ foreach(ASSET ${ASSETS_FILES})
 endforeach()
 
 
+if(CMAKE_BUILD_TYPE STREQUAL "Debug")
+    enable_testing()
+
+    set(CMAKE_MODULE_PATH ${CMAKE_MODULE_PATH} ${CMAKE_SOURCE_DIR}/cmake/Modules)
+
+    find_package(Criterion REQUIRED MODULE)
+
+    file(GLOB_RECURSE TEST_SOURCES "tests/*.c")
+    add_executable(I_Chinese_Tests ${TEST_SOURCES})
+    target_include_directories(I_Chinese_Tests PRIVATE ${CMAKE_SOURCE_DIR})
+    target_include_directories(I_Chinese_Tests PRIVATE include
+        ${CRITERION_INCLUDE_DIRS}
+    )
+    target_link_libraries(I_Chinese_Tests PRIVATE
+        ${CRITERION_LIBRARIES}
+    )
+
+    add_test(NAME AllTests COMMAND I_Chinese_Tests)
+endif()
