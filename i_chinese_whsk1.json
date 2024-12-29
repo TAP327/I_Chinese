@@ -1,0 +1,1179 @@
+[
+    {
+        "id": 0,
+        "chinese": "爱",
+        "pinyin": "ai4",
+        "definition": "to like, to love, love",
+        "level": "1",
+        "sentences": "0, 1, 2, 34, 38"
+    },{
+        "id": 1,
+        "chinese": "八",
+        "pinyin": "ba1",
+        "definition": "eight",
+        "level": "1",
+        "sentences": "3, 4, 5"
+    },{
+        "id": 2,
+        "chinese": "爸爸",
+        "pinyin": "ba4ba5",
+        "definition": "dad",
+        "level": "1",
+        "sentences": "1, 6, 7, 8, 9"
+    },{
+        "id": 3,
+        "chinese": "杯子",
+        "pinyin": "bei1zi5",
+        "definition": "cup",
+        "level": "1",
+        "sentences": "10, 11"
+    },{
+        "id": 4,
+        "chinese": "北京",
+        "pinyin": "bei3jing1",
+        "definition": "Beijing (northern capital)",
+        "level": "1",
+        "sentences": "24, 25, 26"
+    },{
+        "id": 5,
+        "chinese": "本",
+        "pinyin": "ben3",
+        "definition": "notebook, origin, root, (CL: books)",
+        "level": "1",
+        "sentences": "12, 13, 14"
+    },{
+        "id": 6,
+        "chinese": "不客气",
+        "pinyin": "bu2ke4qi5",
+        "definition": "You're welcome",
+        "level": "1",
+        "sentences": "15"
+    },{
+        "id": 7,
+        "chinese": "不",
+        "pinyin": "bu4 or bu2",
+        "definition": "no, not",
+        "level": "1",
+        "sentences": "16, 17, 18, 19, 20, 21, 22, 23, 27"
+    },{
+        "id": 8,
+        "chinese": "菜",
+        "pinyin": "cai4",
+        "definition": "dish (type of food), vegetable",
+        "level": "1",
+        "sentences": "28"
+    },{
+        "id": 9,
+        "chinese": "茶",
+        "pinyin": "cha2",
+        "definition": "tea",
+        "level": "1",
+        "sentences": "23, 29"
+    },{
+        "id": 10,
+        "chinese": "吃",
+        "pinyin": "chi1",
+        "definition": "to eat",
+        "level": "1",
+        "sentences": "30, 31, 32, 33, 34, 35, 36, 37, 38, 39"
+    },{
+        "id": 11,
+        "chinese": "出租车",
+        "pinyin": "chu1zu1che1",
+        "definition": "taxi",
+        "level": "1",
+        "sentences": "40, 41"
+    },{
+        "id": 12,
+        "chinese": "打电话",
+        "pinyin": "da3dian4hua4",
+        "definition": "to call (on the phone, literally: hit phone)",
+        "level": "1",
+        "sentences": "42"
+    },{
+        "id": 13,
+        "chinese": "大",
+        "pinyin": "da4",
+        "definition": "big",
+        "level": "1",
+        "sentences": "43, 44, 45, 46, 55"
+    },{
+        "id": 14,
+        "chinese": "的",
+        "pinyin": "de5",
+        "definition": "of, (possessive particle), (structural particle)",
+        "level": "1",
+        "sentences": "2, 4, 33, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52， 55"
+    },{
+        "id": 15,
+        "chinese": "点",
+        "pinyin": "dian3",
+        "definition": "precise time, small amount, a little bit",
+        "level": "1",
+        "sentences": "5, 29, 54, 53, 54, 55, 56"
+    },{
+        "id": 16,
+        "chinese": "电脑",
+        "pinyin": "dian4nao3",
+        "definition": "computer",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 17,
+        "chinese": "电视",
+        "pinyin": "dian4shi4",
+        "definition": "TV, television",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 18,
+        "chinese": "电影",
+        "pinyin": "dian4ying4",
+        "definition": "movie",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 19,
+        "chinese": "东西",
+        "pinyin": "dong1xi5",
+        "definition": "thing",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 20,
+        "chinese": "都",
+        "pinyin": "dou1",
+        "definition": "all",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 21,
+        "chinese": "读",
+        "pinyin": "du2",
+        "definition": "to read (outloud)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 22,
+        "chinese": "对不起",
+        "pinyin": "dui4bu5qi3",
+        "definition": "I'm sorry",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 23,
+        "chinese": "多",
+        "pinyin": "duo1",
+        "definition": "many, much",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 24,
+        "chinese": "多少",
+        "pinyin": "duo1shao3",
+        "definition": "how many, how much (numbers greater than ten, measure word is optional)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 25,
+        "chinese": "儿子",
+        "pinyin": "er2zi5",
+        "definition": "son",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 26,
+        "chinese": "二",
+        "pinyin": "er4",
+        "definition": "two",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 27,
+        "chinese": "饭店",
+        "pinyin": "fan4dian4",
+        "definition": "restaurant",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 28,
+        "chinese": "飞机",
+        "pinyin": "fei1ji1",
+        "definition": "airplane",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 29,
+        "chinese": "分钟",
+        "pinyin": "fen1zhong1",
+        "definition": "minute",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 30,
+        "chinese": "高兴",
+        "pinyin": "gao1xing4",
+        "definition": "happy",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 31,
+        "chinese": "个",
+        "pinyin": "ge4",
+        "definition": "(CL: people, general objects)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 32,
+        "chinese": "工作",
+        "pinyin": "gong1zuo4",
+        "definition": "work",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 33,
+        "chinese": "狗",
+        "pinyin": "gou3",
+        "definition": "dog",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 34,
+        "chinese": "汉语",
+        "pinyin": "han2yu3",
+        "definition": "Chinse language",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 35,
+        "chinese": "好",
+        "pinyin": "hao3",
+        "definition": "good, well",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 36,
+        "chinese": "号",
+        "pinyin": "hao4",
+        "definition": "number, day of the month",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 37,
+        "chinese": "喝",
+        "pinyin": "he1",
+        "definition": "to drink",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 38,
+        "chinese": "和",
+        "pinyin": "he2",
+        "definition": "and",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 39,
+        "chinese": "很",
+        "pinyin": "hen3",
+        "definition": "very, to be (adjective)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 40,
+        "chinese": "后面",
+        "pinyin": "hou4mian4",
+        "definition": "behind",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 41,
+        "chinese": "回",
+        "pinyin": "hui2",
+        "definition": "to return",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 42,
+        "chinese": "会",
+        "pinyin": "hui4",
+        "definition": "to be able to (skills)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 43,
+        "chinese": "几",
+        "pinyin": "ji3",
+        "definition": "some, how many, how much (numbers less than ten, measure word is not optional)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 44,
+        "chinese": "家",
+        "pinyin": "jia1",
+        "definition": "house, home, family",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 45,
+        "chinese": "叫",
+        "pinyin": "jiao4",
+        "definition": "to call (a name)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 46,
+        "chinese": "今天",
+        "pinyin": "jin1tian1",
+        "definition": "today",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 47,
+        "chinese": "九",
+        "pinyin": "jiu3",
+        "definition": "nine",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 48,
+        "chinese": "开",
+        "pinyin": "kai1",
+        "definition": "to open, to start, to drive",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 49,
+        "chinese": "看",
+        "pinyin": "kan4",
+        "definition": "to see, to read",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 50,
+        "chinese": "看见",
+        "pinyin": "kan4jian4",
+        "definition": "to see",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 51,
+        "chinese": "块",
+        "pinyin": "kuai4",
+        "definition": "piece, (CL: items of clothing, money)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 52,
+        "chinese": "来",
+        "pinyin": "lai2",
+        "definition": "to come",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 53,
+        "chinese": "老师",
+        "pinyin": "lao3shi1",
+        "definition": "teacher",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 54,
+        "chinese": "了",
+        "pinyin": "le5",
+        "definition": "(modal particle: intensifies the previous action, indicates a completed action)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 55,
+        "chinese": "冷",
+        "pinyin": "leng3",
+        "definition": "cold",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 56,
+        "chinese": "里",
+        "pinyin": "li3",
+        "definition": "inside",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 57,
+        "chinese": "六",
+        "pinyin": "liu4",
+        "definition": "six",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 58,
+        "chinese": "妈妈",
+        "pinyin": "ma1ma5",
+        "definition": "mom",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 59,
+        "chinese": "吗",
+        "pinyin": "ma5",
+        "definition": "(question particle: yes or no questions, used at the end of the sentence)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 60,
+        "chinese": "买",
+        "pinyin": "mai3",
+        "definition": "to buy",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 61,
+        "chinese": "猫",
+        "pinyin": "mao1",
+        "definition": "cat",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 62,
+        "chinese": "没关系",
+        "pinyin": "mei2guan1xi5",
+        "definition": "it doesn't matter",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 63,
+        "chinese": "没有",
+        "pinyin": "mei2you3",
+        "definition": "not have",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 64,
+        "chinese": "米饭",
+        "pinyin": "mi3fan4",
+        "definition": "cooked rice",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 65,
+        "chinese": "明天",
+        "pinyin": "ming2tian1",
+        "definition": "tomorrow",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 66,
+        "chinese": "名字",
+        "pinyin": "ming2zi5",
+        "definition": "name",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 67,
+        "chinese": "哪",
+        "pinyin": "na3",
+        "definition": "which",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 68,
+        "chinese": "哪儿",
+        "pinyin": "nar3",
+        "definition": "where",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 69,
+        "chinese": "那",
+        "pinyin": "na4",
+        "definition": "that",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 70,
+        "chinese": "呢",
+        "pinyin": "ne5",
+        "definition": "(question particle: asking for confirmation, opinion, or position)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 71,
+        "chinese": "能",
+        "pinyin": "neng2",
+        "definition": "to be able to (normally physically)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 72,
+        "chinese": "你",
+        "pinyin": "ni3",
+        "definition": "you (informal)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 73,
+        "chinese": "年",
+        "pinyin": "nian2",
+        "definition": "year",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 74,
+        "chinese": "女儿",
+        "pinyin": "nv3er2",
+        "definition": "daughter",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 75,
+        "chinese": "朋友",
+        "pinyin": "peng2you3",
+        "definition": "friend",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 76,
+        "chinese": "漂亮",
+        "pinyin": "piao2liang5",
+        "definition": "pretty",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 77,
+        "chinese": "苹果",
+        "pinyin": "ping2guo3",
+        "definition": "apple",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 78,
+        "chinese": "七",
+        "pinyin": "qi1",
+        "definition": "seven",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 79,
+        "chinese": "钱",
+        "pinyin": "qian2",
+        "definition": "money",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 80,
+        "chinese": "前面",
+        "pinyin": "qian2mian4",
+        "definition": "in front",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 81,
+        "chinese": "请",
+        "pinyin": "qing3",
+        "definition": "please (starts a question or invite)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 82,
+        "chinese": "去",
+        "pinyin": "qu4",
+        "definition": "to go",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 83,
+        "chinese": "热",
+        "pinyin": "re4",
+        "definition": "hot",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 84,
+        "chinese": "人",
+        "pinyin": "ren2",
+        "definition": "person, people",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 85,
+        "chinese": "认识",
+        "pinyin": "ren4shi5",
+        "definition": "to know (a person), to meet",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 86,
+        "chinese": "三",
+        "pinyin": "san1",
+        "definition": "three",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 87,
+        "chinese": "商店",
+        "pinyin": "shang1dian4",
+        "definition": "store",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 88,
+        "chinese": "上",
+        "pinyin": "shang4",
+        "definition": "above, on",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 89,
+        "chinese": "上午",
+        "pinyin": "shang4wu3",
+        "definition": "",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 90,
+        "chinese": "少",
+        "pinyin": "shao3",
+        "definition": "a little",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 91,
+        "chinese": "谁",
+        "pinyin": "shei2",
+        "definition": "who",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 92,
+        "chinese": "什么",
+        "pinyin": "shen2me5",
+        "definition": "what",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 93,
+        "chinese": "十",
+        "pinyin": "shi2",
+        "definition": "ten",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 94,
+        "chinese": "时候",
+        "pinyin": "shi2hou4",
+        "definition": "point in time",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 95,
+        "chinese": "是",
+        "pinyin": "shi4",
+        "definition": "to be",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 96,
+        "chinese": "书",
+        "pinyin": "shu1",
+        "definition": "book",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 97,
+        "chinese": "水",
+        "pinyin": "shui3",
+        "definition": "water",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 98,
+        "chinese": "水果",
+        "pinyin": "shui3guo3",
+        "definition": "fruit",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 99,
+        "chinese": "睡觉",
+        "pinyin": "shui4jiao4",
+        "definition": "to sleep",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 100,
+        "chinese": "说",
+        "pinyin": "shuo1",
+        "definition": "to talk",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 101,
+        "chinese": "四",
+        "pinyin": "si4",
+        "definition": "four",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 102,
+        "chinese": "岁",
+        "pinyin": "sui4",
+        "definition": "years of age",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 103,
+        "chinese": "他",
+        "pinyin": "ta1",
+        "definition": "he",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 104,
+        "chinese": "她",
+        "pinyin": "ta1",
+        "definition": "she",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 105,
+        "chinese": "太",
+        "pinyin": "tai4",
+        "definition": "too",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 106,
+        "chinese": "天气",
+        "pinyin": "tian1qi5",
+        "definition": "weather",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 107,
+        "chinese": "听",
+        "pinyin": "ting1",
+        "definition": "to hear",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 108,
+        "chinese": "同学",
+        "pinyin": "tong2xue2",
+        "definition": "classmate",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 109,
+        "chinese": "喂",
+        "pinyin": "wei4",
+        "definition": "hey (over the phone)",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 110,
+        "chinese": "我",
+        "pinyin": "wo3",
+        "definition": "I",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 111,
+        "chinese": "我们",
+        "pinyin": "wo3men5",
+        "definition": "we",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 112,
+        "chinese": "五",
+        "pinyin": "wu3",
+        "definition": "five",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 113,
+        "chinese": "喜欢",
+        "pinyin": "xi3huan5",
+        "definition": "to like",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 114,
+        "chinese": "下",
+        "pinyin": "xia4",
+        "definition": "down, below",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 115,
+        "chinese": "下年",
+        "pinyin": "xia4nian2",
+        "definition": "next year",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 116,
+        "chinese": "下雨",
+        "pinyin": "xia4yu3",
+        "definition": "to rain",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 117,
+        "chinese": "先生",
+        "pinyin": "xian1sheng5",
+        "definition": "Mr., husband, sir",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 118,
+        "chinese": "现在",
+        "pinyin": "xian4zai4",
+        "definition": "now",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 119,
+        "chinese": "想",
+        "pinyin": "xiang3",
+        "definition": "to want, to think",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 120,
+        "chinese": "小",
+        "pinyin": "xiao3",
+        "definition": "small, young",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 121,
+        "chinese": "小姐",
+        "pinyin": "xiao3jie3",
+        "definition": "miss, young lady, prostitute",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 122,
+        "chinese": "些",
+        "pinyin": "xie1",
+        "definition": "some",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 123,
+        "chinese": "写",
+        "pinyin": "xie3",
+        "definition": "to write",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 124,
+        "chinese": "谢谢",
+        "pinyin": "xie4xie5",
+        "definition": "thank you",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 125,
+        "chinese": "星期",
+        "pinyin": "xing1qi1",
+        "definition": "week",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 126,
+        "chinese": "学生",
+        "pinyin": "xue2sheng5",
+        "definition": "student",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 127,
+        "chinese": "学习",
+        "pinyin": "xue2xi2",
+        "definition": "study",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 128,
+        "chinese": "学校",
+        "pinyin": "xue2xiao4",
+        "definition": "school",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 129,
+        "chinese": "一",
+        "pinyin": "yi1",
+        "definition": "one",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 130,
+        "chinese": "衣服",
+        "pinyin": "yi1fu5",
+        "definition": "clothes",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 131,
+        "chinese": "医生",
+        "pinyin": "yi1sheng1",
+        "definition": "doctor",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 132,
+        "chinese": "医院",
+        "pinyin": "yi1yuan4",
+        "definition": "hospital",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 133,
+        "chinese": "椅子",
+        "pinyin": "yi3zi5",
+        "definition": "chair",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 134,
+        "chinese": "一点儿",
+        "pinyin": "yi1dianr3",
+        "definition": "a little",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 135,
+        "chinese": "有",
+        "pinyin": "you3",
+        "definition": "",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 136,
+        "chinese": "月",
+        "pinyin": "yue4",
+        "definition": "month, moon",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 137,
+        "chinese": "在",
+        "pinyin": "zai4",
+        "definition": "to be located at or in",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 138,
+        "chinese": "再见",
+        "pinyin": "zai4jian4",
+        "definition": "see you soon",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 139,
+        "chinese": "怎么",
+        "pinyin": "zen3me5",
+        "definition": "how",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 140,
+        "chinese": "怎么样",
+        "pinyin": "zen3meyang4",
+        "definition": "how is it? how are you?",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 141,
+        "chinese": "这",
+        "pinyin": "zhe4",
+        "definition": "this",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 142,
+        "chinese": "中国",
+        "pinyin": "zhong1guo2",
+        "definition": "China",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 143,
+        "chinese": "中午",
+        "pinyin": "zhong1wu3",
+        "definition": "noon",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 144,
+        "chinese": "住",
+        "pinyin": "zhu4",
+        "definition": "to live",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 145,
+        "chinese": "桌子",
+        "pinyin": "zhuo1zi5",
+        "definition": "table",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 146,
+        "chinese": "字",
+        "pinyin": "zi4",
+        "definition": "character",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 147,
+        "chinese": "昨天",
+        "pinyin": "zuo2tian1",
+        "definition": "yesterday",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 148,
+        "chinese": "做",
+        "pinyin": "zuo4",
+        "definition": "to do, to make",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 149,
+        "chinese": "座",
+        "pinyin": "zuo4",
+        "definition": "to sit",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 150,
+        "chinese": "",
+        "pinyin": "",
+        "definition": "",
+        "level": "1",
+        "sentences": ""
+    },{
+        "id": 151,
+        "chinese": "一月",
+        "pinyin": "yi2yue4",
+        "definition": "January",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 152,
+        "chinese": "二月",
+        "pinyin": "er4yue4",
+        "definition": "February",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 153,
+        "chinese": "三月",
+        "pinyin": "san1yue4",
+        "definition": "March",
+        "level": "1+",
+        "sentences": "3"
+    },{
+        "id": 154,
+        "chinese": "四月",
+        "pinyin": "si4yue4",
+        "definition": "April",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 155,
+        "chinese": "五月",
+        "pinyin": "wu3yue4",
+        "definition": "May",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 156,
+        "chinese": "六月",
+        "pinyin": "liu4yue4",
+        "definition": "June",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 157,
+        "chinese": "七月",
+        "pinyin": "qi1yue4",
+        "definition": "July",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 158,
+        "chinese": "八月",
+        "pinyin": "ba1yue4",
+        "definition": "August",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 159,
+        "chinese": "九月",
+        "pinyin": "jiu3yue4",
+        "definition": "September",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 160,
+        "chinese": "十月",
+        "pinyin": "shi2yue4",
+        "definition": "October",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 161,
+        "chinese": "十一月",
+        "pinyin": "shi2yi2yue4",
+        "definition": "November",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 162,
+        "chinese": "十二月",
+        "pinyin": "shi2er4yue4",
+        "definition": "December",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 163,
+        "chinese": "道",
+        "pinyin": "",
+        "definition": "",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 164,
+        "chinese": "早饭",
+        "pinyin": "zao3fan4",
+        "definition": "breakfast",
+        "level": "1+",
+        "sentences": "32"
+    },{
+        "id": 165,
+        "chinese": "午饭",
+        "pinyin": "wu3fan4",
+        "definition": "lunch",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 166,
+        "chinese": "晚饭",
+        "pinyin": "wan3fan4",
+        "definition": "dinner",
+        "level": "1+",
+        "sentences": ""
+    },{
+        "id": 167,
+        "chinese": "电话",
+        "pinyin": "dian4hua4",
+        "definition": "phone",
+        "level": "1+",
+        "sentences": "4, 41, 42"
+    }
+]
