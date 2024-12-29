@@ -1,0 +1,1898 @@
+[
+    {
+        "id": 0,
+        "chinese": "我/很/爱/我/妈妈/。",
+        "pinyin": "wo3/hen3/ai4/wo3/ma1ma5/.",
+        "english": "I love my mom so much."
+    },{
+        "id": 1,
+        "chinese": "爸爸/，/我/爱/你/。",
+        "pinyin": "ba4ba5/,/wo3/ai4/ni3/.",
+        "english": "Dad, I love you."
+    },{
+        "id": 2,
+        "chinese": "我/爱/我/的/狗/。",
+        "pinyin": "wo3/ai4/wo3/de5/gou3/.",
+        "english": "I love my dog."
+    },{
+        "id": 3,
+        "chinese": "今天/是/三月/十/八/号。",
+        "pinyin": "jin1tian1/shi4/san3yue4/shi2/ba1/hao4/.",
+        "english": "Today is March 18th."
+    },{
+        "id": 4,
+        "chinese": "我/的/电话/是/八/八/二/五/三/四/七/。",
+        "pinyin": "wo3/de5/dian4hua4/shi4/ba1/ba1/er4/wu3/san1/si4/qi1/.",
+        "english": "My phone number is 882-5347."
+    },{
+        "id": 5,
+        "chinese": "我/八/点/回/家/。",
+        "pinyin": "wo3/ba1/dian3/hui2/jia1/.",
+        "english": "I'm coming home at 8:00."
+    },{
+        "id": 6,
+        "chinese": "他/是/你/爸爸/。",
+        "pinyin": "ta1/shi4/ni3/ba4ba5/.",
+        "english": "He's your dad."
+    },{
+        "id": 7,
+        "chinese": "明天/我/爸爸/回/家/。",
+        "pinyin": "ming2tian1/wo3/ba4ba5/hui2/lai2/.",
+        "english": "Tomorrow my dad is coming back."
+    },{
+        "id": 8,
+        "chinese": "喂/，/你/爸爸/在/家/吗/？",
+        "pinyin": "wei4/,/ni3/ba4ba5/zai4/jia1/ma5/?",
+        "english": "Hey, is your dad home?"
+    },{
+        "id": 9,
+        "chinese": "你/爸爸/什么/时候/回/家/？",
+        "pinyin": "ni3/ba4ba5/shen2me5/shi2hou4/hui2/jia1/?",
+        "english": "What time is your dad coming home?"
+    },{
+        "id": 10,
+        "chinese": "桌/上/有/三/个/杯子/。",
+        "pinyin": "zhuo1/shang4/you3/san1/ge4/bei1zi5/.",
+        "english": "There are three cups on the table."
+    },{
+        "id": 11,
+        "chinese": "这/个/杯子/很/好/看/。",
+        "pinyin": "zhe4/ge4/bei1zi5/hen3/hao3/kan4",
+        "english": "This cup is good-looking."
+    },{
+        "id": 12,
+        "chinese": "你/有/几/本/书/？",
+        "pinyin": "ni3/you3/ji3/ben3/shu1/?",
+        "english": "How many books do you have?"
+    },{
+        "id": 13,
+        "chinese": "这/有/一/本/书/。",
+        "pinyin": "zhe4/you3/yi4/ben3/shu1/.",
+        "english": "There's a book."
+    },{
+        "id": 14,
+        "chinese": "桌子/上/有/一/本/书/。",
+        "pinyin": "zhuo1zi5/shang4/you3/yi4/ben3/shu1/.",
+        "english": "There's a book on the table."
+    },{
+        "id": 15,
+        "chinese": "谢谢/你/。/不客气/。",
+        "pinyin": "xie4xie5/ni3/./bu2ke4qi5/.",
+        "english": "Thank you.  You're welcome."
+    },{
+        "id": 16,
+        "chinese": "她/现在/不/学习/。",
+        "pinyin": "ta1/xian4zai4/bu4/xue2xi2/.",
+        "english": "She's not studying now."
+    },{
+        "id": 17,
+        "chinese": "我/不/能/上/去/。",
+        "pinyin": "wo3/bu4/neng2/shang4/qu4/.",
+        "english": "I can't go out."
+    },{
+        "id": 18,
+        "chinese": "你/不/喜欢/学习/吗/？",
+        "pinyin": "ni3/bu4/xi3huan5/xue2xi2/ma5/?",
+        "english": "You don't like to study?"
+    },{
+        "id": 19,
+        "chinese": "今天/天气/不/好/。",
+        "pinyin": "jin1tian1/tian1qi4/bu4/hao3/.",
+        "english": "The weather today is bad."
+    },{
+        "id": 20,
+        "chinese": "我/不/工作/。",
+        "pinyin": "wo3/bu4/gong1zuo4/.",
+        "english": "I don't work."
+    },{
+        "id": 21,
+        "chinese": "对不起/，/你/不/能/买/这/个/。",
+        "pinyin": "dui4bu5qi3/,/ni3/bu4/neng2/mai3/zhe4/ge5/.",
+        "english": "I'm sorry, you can't buy that. "
+    },{
+        "id": 22,
+        "chinese": "我/不/喜欢/。",
+        "pinyin": "wo3/bu4/xi3huan5/.",
+        "english": "I don't like it."
+    },{
+        "id": 23,
+        "chinese": "我/不/喜欢/茶/。",
+        "pinyin": "wo3/bu4/xi3huan5/cha2/.",
+        "english": "I don't like tea."
+    },{
+        "id": 24,
+        "chinese": "你/什么/时候/回/北京/?",
+        "pinyin": "ni3/shen2me5/shi2hou4/hui2/bei3jing1/?",
+        "english": "What time I are you returning to Beijing?"
+    },{
+        "id": 25,
+        "chinese": "我/在/北京/。",
+        "pinyin": "wo3/zai4/bei3jing1/.",
+        "english": "I'm in Beijing."
+    },{
+        "id": 26,
+        "chinese": "北京/很/冷/吗/？",
+        "pinyin": "bei3jing1/hen3/leng3/ma5/?",
+        "english": "Is Beijing cold?"
+    },{
+        "id": 27,
+        "chinese": "我/明天/不/能/去/学校/。",
+        "pinyin": "wo3/ming2tian1/bu4/neng2/qu4/xue2xiao4/.",
+        "english": "I can't come to school tomorrow."
+    },{
+        "id": 28,
+        "chinese": "我/很/喜欢/这/道/菜/。",
+        "pinyin": "wo3/hen3/xi3huan5/zhe4/dao4/cai4/.",
+        "english": "I like this dish."
+    },{
+        "id": 29,
+        "chinese": "你/想/喝/点/茶/吗/？",
+        "pinyin": "ni3/xiang3/he1/dian3/cha2/ma5/?",
+        "english": "Do you want to drink a little tea?"
+    },{
+        "id": 30,
+        "chinese": "我/想/吃/东西/。",
+        "pinyin": "wo3/xiang3/chi1/dong1xi5/.",
+        "english": "I want to eat something."
+    },{
+        "id": 31,
+        "chinese": "你/吃/了/什么/？",
+        "pinyin": "ni3/chi1/le5/shen2me5/?",
+        "english": "What did you eat?"
+    },{
+        "id": 32,
+        "chinese": "你/吃/早饭/了/吗/？",
+        "pinyin": "ni3/chi1/zao3fan4/le5/ma5/？",
+        "english": "Did you eat breakfast?"
+    },{
+        "id": 33,
+        "chinese": "商店/里/有/很/多/吃/的/东西/。",
+        "pinyin": "shang1dian4/li3/you3/hen3/duo1/chi1/de5/dong1xi5/.",
+        "english": "There's a lot of things to eat in the store."
+    },{
+        "id": 34,
+        "chinese": "我/爱/吃/米饭/。",
+        "pinyin": "wo3/ai4/chi1/mi3fan4/.",
+        "english": "I like to eat rice."
+    },{
+        "id": 35,
+        "chinese": "我/今天/想/吃/米饭/。",
+        "pinyin": "wo3/jin1tian1/xiang3/chi1/mi3fan4/.",
+        "english": "Today I want to eat rice."
+    },{
+        "id": 36,
+        "chinese": "你/中午/吃/了/什么/？",
+        "pinyin": "ni3/zhong1wu3/chi1/le5/shen2me5/?",
+        "english": "What did you eat in the middle of the day?"
+    },{
+        "id": 37,
+        "chinese": "你/想/吃/一/些/水果/吗/？",
+        "pinyin": "ni3/xiang3/chi1/yi4/xie1/shui3guo3/ma5/?",
+        "english": "Do you want to eat some fruit."
+    },{
+        "id": 38,
+        "chinese": "我/爱/吃/水/果/。",
+        "pinyin": "wo3/ai4/chi1/shui3guo3/.",
+        "english": "I like to eat fruit."
+    },{
+        "id": 39,
+        "chinese": "我/想/去/饭店/吃/晚饭/。",
+        "pinyin": "wo3/xiang3/qu4/fan3dian4/chi1/wan3fan4/.",
+        "english": "I want to go to a restaurant and eat dinner."
+    },{
+        "id": 40,
+        "chinese": "这/是/我们/的/出租车/吗/？",
+        "pinyin": "zhe4/shi4/wo3men5/de5/chu1zu1che1/ma5/?",
+        "english": "Is this our taxi?"
+    },{
+        "id": 41,
+        "chinese": "出租车/的/电话/是/多少/？",
+        "pinyin": "chu1zu1che1/de5/dian4hua4/shi4/duo1shao3/?",
+        "english": "What is the taxi phone number?"
+    },{
+        "id": 42,
+        "chinese": "打电话/叫/医生！",
+        "pinyin": "da3dian4hua4/jiao4/yi1sheng1/!",
+        "english": "Call a doctor!"
+    },{
+        "id": 43,
+        "chinese": "这/家/商店/很/大/。",
+        "pinyin": "zhe4/jia1/shang1dian4/hen3/da4/.",
+        "english": "This store is big."
+    },{
+        "id": 44,
+        "chinese": "你/有/大/一点/的/吗/？",
+        "pinyin": "ni3/you3/da4/yi4dian3/de5/ma5/?",
+        "english": "Do you have a larger one?"
+    },{
+        "id": 45,
+        "chinese": "你/女儿/今年/多/大/了/？",
+        "pinyin": "ni3/nv3er2/jin1nian2/duo1/da4/le5/?",
+        "english": "How old is you daughter this year?"
+    },{
+        "id": 46,
+        "chinese": "你/的/老师/多/大/了/？",
+        "pinyin": "ni3/de5/lao3shi1/duo1da4/le5/？",
+        "english": "How old is your professor?"
+    },{
+        "id": 47,
+        "chinese": "我/会/来/的/。",
+        "pinyin": "wo3/hui4/lai2/de5/.",
+        "english": "I will come."
+    },{
+        "id": 48,
+        "chinese": "请/写/下/你/的/名字/。",
+        "pinyin": "qing3/xie3/xia4/ni3/de5/ming2zi5/.",
+        "english": "Write down your name, please."
+    },{
+        "id": 49,
+        "chinese": "谢谢/你/的/工作/。",
+        "pinyin": "xie4xie5/ni3/de5/gong1zuo4/.",
+        "english": "Thank you for your work."
+    },{
+        "id": 50,
+        "chinese": "你/的/妈妈/很/漂亮/。",
+        "pinyin": "ni3/de5/ma1ma5/hen3/piao4liang5/.",
+        "english": "Your mom is pretty."
+    },{
+        "id": 51,
+        "chinese": "那/是/我/的/儿子/的同学。",
+        "pinyin": "na4/shi4/wo3/de5/er2zi5/de5/tong2xue2/.",
+        "english": "That is my son's classmate."
+    },{
+        "id": 52,
+        "chinese": "这/是/我/的/先生/。",
+        "pinyin": "zhe4/shi4/wo3/de5/xian1sheng5/.",
+        "english": "This is my husband."
+    },{
+        "id": 53,
+        "chinese": "我/想/喝/一点儿/水/。",
+        "pinyin": "wo3/xiang3/he1/yi4dianr3/shui3/.",
+        "english": "I want to drink a little water."
+    },{
+        "id": 54,
+        "chinese": "现在/是/上午/十/一/点/。",
+        "pinyin": "xian4zai4/shi4/shang4wu3/shi2/yi1/dian3/.",
+        "english": "It's 11:00 am."
+    },{
+        "id": 55,
+        "chinese": "你/有/大/一/点/的/吗/？",
+        "pinyin": "ni3/you3/da4/yi4/dian3/de5/ma5/?",
+        "english": "Do you have a larger one?"
+    },{
+        "id": 56,
+        "chinese": "明天/会/有/一点儿/冷/。",
+        "pinyin": "ming2tian1/hui4/you3/yi4dianr3/leng3/.",
+        "english": "Tomorrow will be a little cold."
+    },{
+        "id": 57,
+        "chinese": "这/是/我/的/电脑/。",
+        "pinyin": "zhe4/shi4/wo3/de5/dian4nao3/.",
+        "english": "This is my computer"
+    },{
+        "id": 58,
+        "chinese": "我/的/电脑/在/哪儿/？",
+        "pinyin": "wo3/de5/dian4nao3/zai4/nar3/?",
+        "english": "Where is my computer?"
+    },{
+        "id": 59,
+        "chinese": "电脑/在/桌子/上/。",
+        "pinyin": "dian4nao3/zai4/zhuo1zi5/shang4/.",
+        "english": "The computer is on the table."
+    },{
+        "id": 60,
+        "chinese": "我/爱/看/电视/。",
+        "pinyin": "wo3/ai4/kan4/dian4shi4/.",
+        "english": "I love watching TV."
+    },{
+        "id": 61,
+        "chinese": "请/开/电视/。",
+        "pinyin": "qing3/kai1/dian4shi4/.",
+        "english": "Please turn on the TV."
+    },{
+        "id": 62,
+        "chinese": "我/想/看/个/电影/。",
+        "pinyin": "wo3/xiang3/kan4/ge5/dian4ying3/.",
+        "english": "I want to watch a movie."
+    },{
+        "id": 63,
+        "chinese": "他/想/明天/去/看/电影/。",
+        "pinyin": "ta1/xiang3/ming2tian1/qu4/kan4/dian4ying3/.",
+        "english": "He wants to go watch a movie tomorrow."
+    },{
+        "id": 64,
+        "chinese": "我/买/一/些/东西/。",
+        "pinyin": "wo3/mai3/yi4/xie1/dong1xi5/.",
+        "english": "I buy a few things. "
+    },{
+        "id": 65,
+        "chinese": "我/想/去/买/东西/。",
+        "pinyin": "wo3/xiang3/qu4/mai3/dong1xi5/.",
+        "english": "I want to go buy things."
+    },{
+        "id": 66,
+        "chinese": "我们/都/来/了/。",
+        "pinyin": "wo3men5/dou1/lai2/le5",
+        "english": "We all came."
+    },{
+        "id": 67,
+        "chinese": "我们/都/是/好/朋友/。",
+        "pinyin": "wo3men5/dou1/shi4/hao3/peng2you3/.",
+        "english": "We're all good friends."
+    },{
+        "id": 68,
+        "chinese": "他们/都/是/好/老师/。",
+        "pinyin": "ta1men5/dou1/shi4/hao3/lao3shi1/.",
+        "english": "They're all good teachers."
+    },{
+        "id": 69,
+        "chinese": "这/个/字/怎么/读/。",
+        "pinyin": "zhe4/ge5/zi4/zen3me5/du2/.",
+        "english": "How do you pronounce this character?"
+    },{
+        "id": 70,
+        "chinese": "我/爱/读/书/。",
+        "pinyin": "wo3/ai4/du2/shu1/.",
+        "english": "I like to read books."
+    },{
+        "id": 71,
+        "chinese": "对不起/，/我/忘/了/！",
+        "pinyin": "dui4bu5qi3/,/wo3/wang4/le5/!",
+        "english": "I'm sorry, I forgot!"
+    },{
+        "id": 72,
+        "chinese": "对不起/，/先生/。",
+        "pinyin": "dui4bu5qi3/,/xian1sheng5/.",
+        "english": "Excuse me, sir."
+    },{
+        "id": 73,
+        "chinese": "对不起/。/没关系/。",
+        "pinyin": "dui4bu5qi3/./mei2guan1xi4/.",
+        "english": "I'm sorry.  It's all good."
+    },{
+        "id": 74,
+        "chinese": "多/谢/了/！",
+        "pinyin": "duo1/xie4/le5/!",
+        "english": "Many thanks!"
+    },{
+        "id": 75,
+        "chinese": "这/个/多少/钱/？",
+        "pinyin": "zhe4/ge5/duo1shao3/qian2/?",
+        "english": "How much does this cost?"
+    },{
+        "id": 76,
+        "chinese": "这/个/学校/有/多少/学生/？",
+        "pinyin": "zhe4/ge5/xue2xiao4/duo1shao3/xue2sheng1/?",
+        "english": "How many students does this school have?"
+    },{
+        "id": 77,
+        "chinese": "多少/钱/？",
+        "pinyin": "duo1shao3/qian2/?",
+        "english": "How much does it cost?"
+    },{
+        "id": 78,
+        "chinese": "这儿/有/很/多/人/。",
+        "pinyin": "zher4/you3/hen3/duo1/ren2/?",
+        "english": "There's a lot of people here."
+    },{
+        "id": 79,
+        "chinese": "学校/里/有/很/多/学生/。",
+        "pinyin": "xue2xiao4/li3/you3/hen3/duo1/xue2sheng1/.",
+        "english": "There's a lot of students in the school."
+    },{
+        "id": 80,
+        "chinese": "昨天/下/了/很/多/雨/。",
+        "pinyin": "zuo2tian1/xia4/le5/hen3/duo1/yu3/.",
+        "english": "It rained a lot yesterday."
+    },{
+        "id": 81,
+        "chinese": "一/天/多少/钱/？",
+        "pinyin": "yi4/tian1/duo1shao5/qian2/?",
+        "english": "How much does it cost for a day?"
+    },{
+        "id": 82,
+        "chinese": "一/个/星期/多少/钱/？",
+        "pinyin": "yi2/ge4/xing1qi1/duo1shao5/qian2/?",
+        "english": "How much does it cost for a week?"
+    },{
+        "id": 83,
+        "chinese": "这/有/很/多/飞机/。",
+        "pinyin": "zhe4/you3/hen3/duo1/fei1ji1/.",
+        "english": "There's a lot of planes."
+    },{
+        "id": 84,
+        "chinese": "她/有/一/个/儿子/和/三/个/女儿/。",
+        "pinyin": "ta1/you3/yi2/ge4/er2zi5/he2/san1/ge4/nv3er2/.",
+        "english": "She has one son and three daughters."
+    },{
+        "id": 85,
+        "chinese": "一/九/八/四/年",
+        "pinyin": "yi4/jiu3/ba1/si4/nian2",
+        "english": "The year 1984"
+    },{
+        "id": 86,
+        "chinese": "一/年/有/五十二/个/星期/。",
+        "pinyin": "yi4nian2/you3/wu3shi2er4/ge4/xing1qi1/.",
+        "english": "A year has 52 weeks."
+    },{
+        "id": 87,
+        "chinese": "昨天/我/学习/了/二十/分钟/。",
+        "pinyin": "zuo2tian1/wo3/xue2xi2/le5/er4shi2/fen1zhong1/.",
+        "english": "Yesterday I studied for twenty minutes."
+    },{
+        "id": 88,
+        "chinese": "饭店/在/哪儿/？",
+        "pinyin": "fan4dian4/zai4/nar3/?",
+        "english": "Where's the restaurant?"
+    },{
+        "id": 89,
+        "chinese": "我/想/去/饭店/吃/晚饭/。",
+        "pinyin": "wo3/xiang3/qu4/fan4dian4/chi1/wan3fan4/.",
+        "english": "I like going to eat dinner at restaurants."
+    },{
+        "id": 90,
+        "chinese": "我/在/饭店/工作/。",
+        "pinyin": "wo3/zai4/fan4dian4/gong1zuo4/.",
+        "english": "I work at a restaurant."
+    },{
+        "id": 91,
+        "chinese": "他/的/朋友/在/飞机/上/工作/。",
+        "pinyin": "ta1/de5/peng2you3/zai4/fei1ji1/shang4/gong1zuo4/.",
+        "english": "His friends work on a plane."
+    },{
+        "id": 92,
+        "chinese": "我/在/飞机/上/。",
+        "pinyin": "wo3/zai4/fei1ji1/shang4/.",
+        "english": "I'm on a plane."
+    },{
+        "id": 93,
+        "chinese": "我/有/十/分钟/。",
+        "pinyin": "wo3/you3/shi2/fen1zhong1/.",
+        "english": "I have ten minutes."
+    },{
+        "id": 94,
+        "chinese": "我/想/休息/几/分钟/。",
+        "pinyin": "wo3/xiang3/xiu1xi5/ji3/fen1zhong1/.",
+        "english": "I want to rest for a few minutes."
+    },{
+        "id": 95,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 96,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 97,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 98,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 99,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 100,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 101,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 102,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 103,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 104,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 105,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 106,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 107,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 108,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 109,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 110,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 111,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 112,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 113,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 114,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 115,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 116,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 117,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 118,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 119,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 120,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 121,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 122,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 123,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 124,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 125,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 126,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 127,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 128,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 129,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 130,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 131,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 132,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 133,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 134,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 135,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 136,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 137,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 138,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 139,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 140,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 141,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 142,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 143,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 144,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 145,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 146,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 147,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 148,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 149,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 150,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 151,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 152,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 153,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 154,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 155,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 156,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 157,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 158,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 159,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 160,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 161,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 162,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 163,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 164,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 165,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 166,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 167,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 168,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 169,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 170,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 171,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 172,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 173,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 174,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 175,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 176,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 177,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 178,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 179,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 180,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 181,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 182,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 183,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 184,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 185,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 186,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 187,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 188,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 189,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 190,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 191,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 192,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 193,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 194,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 195,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 196,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 197,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 198,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 199,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 200,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 201,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 202,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 203,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 204,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 205,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 206,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 207,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 208,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 209,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 210,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 211,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 212,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 213,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 214,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 215,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 216,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 217,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 218,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 219,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 220,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 221,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 222,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 223,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 224,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 225,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 226,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 227,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 228,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 229,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 230,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 231,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 232,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 233,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 234,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 235,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 236,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 237,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 238,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 239,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 240,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 241,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 242,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 243,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 244,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 245,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 246,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 247,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 248,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 249,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 250,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 251,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 252,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 253,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 254,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 255,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 256,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 257,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 258,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 259,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 260,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 261,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 262,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 263,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 264,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 265,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 266,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 267,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 268,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 269,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 270,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 271,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 272,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 273,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 274,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 275,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 276,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 277,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 278,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 279,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 280,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 281,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 282,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 283,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 284,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 285,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 286,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 287,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 288,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 289,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 290,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 291,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 292,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 293,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 294,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 295,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 296,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 297,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 298,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 299,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 300,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 301,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 302,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 303,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 304,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 305,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 306,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 307,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 308,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 309,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 310,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 311,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 312,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 313,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 314,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 315,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 316,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 317,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 318,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 319,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 320,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 321,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 322,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 323,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 324,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 325,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 326,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 327,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 328,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 329,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 330,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 331,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 332,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 333,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 334,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 335,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 336,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 337,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 338,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 339,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 340,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 341,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 342,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 343,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 344,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 345,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 346,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 347,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 348,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 349,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 350,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 351,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 352,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 353,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 354,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 355,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 356,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 357,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 358,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 359,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 360,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 361,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 362,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 363,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 364,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 365,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 367,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 368,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 369,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 370,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 371,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 372,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 373,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 374,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 375,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 375,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 376,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 377,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    },{
+        "id": 378,
+        "chinese": "",
+        "pinyin": "",
+        "english": ""
+    }
+]
