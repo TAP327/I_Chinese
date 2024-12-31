@@ -651,7 +651,7 @@
         "english": "I came back."
     },{
         "id": 130,
-        "chinese": "我回家的时候，他在睡觉。",
+        "chinese": "我/回/家/的/时候/，/他/在/睡觉/。",
         "pinyin": "wo3/hui2/jia1/de5/shi2hou5/,/ta1/zai4/shui4jiao4/.",
         "english": "When I came back home, he was sleeping."
     },{
@@ -666,7 +666,7 @@
         "english": "How old are you?"
     },{
         "id": 133,
-        "chinese": "现在是几月？",
+        "chinese": "现在/是/几/月/？",
         "pinyin": "xian4zai4/shi4/ji3/yue4/?",
         "english": "What month is it now?"
     },{
@@ -676,7 +676,7 @@
         "english": "What day of the week is it today?"
     },{
         "id": 135,
-        "chinese": "王小姐现在在家。",
+        "chinese": "王/小姐/现在/在/家/。",
         "pinyin": "wang2/xiao3jie5/xian4zai4/zai4/jia1/.",
         "english": "Ms. Wang is home now."
     },{
@@ -691,9 +691,9 @@
         "english": "My house is there."
     },{
         "id": 138,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/叫/什么/名字/？",
+        "pinyin": "ni3/jiao4/shen2me5/ming2zi5/?",
+        "english": "What's your name?"
     },{
         "id": 139,
         "chinese": "",
