@@ -271,8 +271,8 @@
         "english": "I want to drink a little water."
     },{
         "id": 54,
-        "chinese": "现在/是/上午/十/一/点/。",
-        "pinyin": "xian4zai4/shi4/shang4wu3/shi2/yi1/dian3/.",
+        "chinese": "现在/是/上午/十一/点/。",
+        "pinyin": "xian4zai4/shi4/shang4wu3/shi2yi1/dian3/.",
         "english": "It's 11:00 am."
     },{
         "id": 55,
@@ -976,59 +976,59 @@
         "english": "What is your phone number?"
     },{
         "id": 195,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/的/朋友/是/医生/。",
+        "pinyin": "wo3/de5/peng2you3/shi4/yi1sheng1/.",
+        "english": "My friend is a doctor."
     },{
         "id": 196,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/很/漂亮/。",
+        "pinyin": "ni3/hen3/piao4liang5/.",
+        "english": "You are pretty."
     },{
         "id": 197,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "苹果/是/水果/。",
+        "pinyin": "ping2guo3/shi4/shui3guo3/.",
+        "english": "Apples are fruit."
     },{
         "id": 198,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "她/有/四/个/苹果/。",
+        "pinyin": "ta1/you3/si4/ge5/ping2guo3/.",
+        "english": "She has four apples."
     },{
         "id": 199,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/没有/钱/。",
+        "pinyin": "wo3/mei2you3/qian2/.",
+        "english": "I don't have money."
     },{
         "id": 200,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我们/在/学校/的/前面/。",
+        "pinyin": "wo3men5/zai4/xue2xiao4/de5/qian2mian4/.",
+        "english": "We're in front of the school."
     },{
         "id": 201,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "请/问",
+        "pinyin": "qing3/wen4",
+        "english": "Excuse me... (starting a question)"
     },{
         "id": 202,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "请/坐/！",
+        "pinyin": "qing3/zuo4/!",
+        "english": "Please, sit!"
     },{
         "id": 203,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "明天/天气/很/热/！",
+        "pinyin": "ming2tian1/tian1qi4/hen3/re4/!",
+        "english": "Tomorrow's weather is hot!"
     },{
         "id": 204,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/认识/他/。",
+        "pinyin": "wo3/ren4shi5/ta1/.",
+        "english": "I know him."
     },{
         "id": 205,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/三十一/岁/。",
+        "pinyin": "wo3/san1shi2yi1/sui4/.",
+        "english": "I'm 31 years old."
     },{
         "id": 206,
         "chinese": "",
