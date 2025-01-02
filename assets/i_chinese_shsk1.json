@@ -441,9 +441,9 @@
         "english": "Yesterday I studied for twenty minutes."
     },{
         "id": 88,
-        "chinese": "饭店/在/哪儿/？",
-        "pinyin": "fan4dian4/zai4/nar3/?",
-        "english": "Where's the restaurant?"
+        "chinese": "请问/，/饭店/在/哪儿/？",
+        "pinyin": "qing3/wen4/,/fan4dian4/zai4/nar3/?",
+        "english": "May I ask where the restaurant is?"
     },{
         "id": 89,
         "chinese": "我/想/去/饭店/吃/晚饭/。",
@@ -566,8 +566,8 @@
         "english": "Nice!"
     },{
         "id": 113,
-        "chinese": "我/没/有/那么/好/？",
-        "pinyin": "wo3/mei2you3/na4me5/hao3/?",
+        "chinese": "我/没/有/那么/好/。",
+        "pinyin": "wo3/mei2you3/na4me5/hao3/.",
         "english": "I'm not so good."
     },{
         "id": 114,
@@ -856,124 +856,124 @@
         "english": "The cat sleeps on the chair."
     },{
         "id": 171,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/有/没有/猫/？",
+        "pinyin": "ni3/you3/mei2you3/mao1/?",
+        "english": "Do you have a cat?"
     },{
         "id": 172,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "没有/人/在/商店/。",
+        "pinyin": "mei2you3/ren2/zai4/shang1dian4/.",
+        "english": "There aren't any people in the store."
     },{
         "id": 173,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/现在/没有/你/的/钱/。",
+        "pinyin": "wo3/xian4zai4/mei2you3/ni3/de5/qian2/.",
+        "english": "I don't have your money now."
     },{
         "id": 174,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/这儿/有/米饭/吗/？",
+        "pinyin": "ni3/zher4/you3/mi3fan4/ma5/?",
+        "english": "Do you have rice here?"
     },{
         "id": 175,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/今天/想/吃/米饭/。",
+        "pinyin": "wo3/jin1tian1/xiang3/chi1/mi3fan4/.",
+        "english": "I want to eat rice today."
     },{
         "id": 176,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/今天/不/想/做饭/。",
+        "pinyin": "wo3/jintian1/bu4/xiang3/zuo4fan4/.",
+        "english": "I don't want to cook today."
     },{
         "id": 177,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "明天/见/！",
+        "pinyin": "ming2tian1/jian4/!",
+        "english": "See you tomorrow!"
     },{
         "id": 178,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "明天/我/妈妈/回/来/！",
+        "pinyin": "ming2tian/wo3/ma1ma5/hui2/lai5/!",
+        "english": "Tomorrow my mom comes back!"
     },{
         "id": 179,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/明天/下午/去/哪儿/？",
+        "pinyin": "ni3/ming2tian1/xia4wu3/qu4/nar3/?",
+        "english": "Where are you going tomorrow afternoon?"
     },{
         "id": 180,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/的/电脑/在/那儿/。",
+        "pinyin": "ni3/de5/dian4nao3/zai4/nar4/.",
+        "english": "Your computer is there."
     },{
         "id": 181,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "医院/在/哪儿/？",
+        "pinyin": "yi1yuan4/zai4/nar3/?",
+        "english": "Where's the hospital?"
     },{
         "id": 182,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/的/学校/在/哪儿/？",
+        "pinyin": "ni3/de5/xue2xiao4/zai4/nar3/?",
+        "english": "Where is your school?"
     },{
         "id": 183,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/住/在/哪儿/？",
+        "pinyin": "ni3/zhu/zai4/nar3/?",
+        "english": "ni3/zhu4/zai4/nar3/?"
     },{
         "id": 184,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "那你呢？",
+        "pinyin": "na4/ni3/ne5/?",
+        "english": "And you?"
     },{
         "id": 185,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/很/好/，/你/呢/？",
+        "pinyin": "wo3/hen3/hao3/,/ni3/ne5/?",
+        "english": "I'm good. And you?"
     },{
         "id": 186,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/在/做/什么/呢/？",
+        "pinyin": "ni3/zai4/zuo4/shen2me5/ne5/?",
+        "english": "What are you doing?"
     },{
         "id": 187,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "我/喜欢/你/写/的/字/。",
+        "pinyin": "wo3/xi3huan1/ni3/xie3/de5/zi4/.",
+        "english": "I like your handwriting."
     },{
         "id": 188,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/学习/什么/？",
+        "pinyin": "ni/xue2xi2/shen2me5/?",
+        "english": "What do you study?"
     },{
         "id": 189,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/昨天/去/中国/了/吗/？",
+        "pinyin": "ni3/zuo2tian1/qu4/zhong1guo2/le5/ma5/？",
+        "english": "Did you go to China yesterday?"
     },{
         "id": 190,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你们/在/说/什么/？",
+        "pinyin": "ni3men5/zai4/shuo1/shen2me5/?",
+        "english": "What are you guys talking about?"
     },{
         "id": 191,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/说/中文/吗/？",
+        "pinyin": "ni3/shuo1/zhong1wen2/ma5/?",
+        "english": "Do you speak Chinese?"
     },{
         "id": 192,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/什么/时候/来/的/?",
+        "pinyin": "ni3/shen2me5/shi2hou4/lai2/de5/?",
+        "english": "What time did you come?"
     },{
         "id": 193,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/在/做/什么/？",
+        "pinyin": "ni3/zai4/zuo4/shen2me5/?",
+        "english": "What are you doing?"
     },{
         "id": 194,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/的/电话/是/多少/？",
+        "pinyin": "ni3/de5/dian4hua4/shi4/duo1shao5/?",
+        "english": "What is your phone number?"
     },{
         "id": 195,
         "chinese": "",
