@@ -75,7 +75,7 @@
         "pinyin": "chi1",
         "definition": "to eat",
         "level": "1",
-        "sentences": "30, 31, 32, 33, 34, 35, 36, 37, 38, 39"
+        "sentences": "30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 89, 149, 175, 208"
     },{
         "id": 11,
         "chinese": "出租车",
@@ -89,7 +89,7 @@
         "pinyin": "da3dian4hua4",
         "definition": "to call (on the phone, literally: hit phone)",
         "level": "1",
-        "sentences": "42"
+        "sentences": "4, 41, 42, 194"
     },{
         "id": 13,
         "chinese": "大",
@@ -103,147 +103,147 @@
         "pinyin": "de5",
         "definition": "of, (possessive particle), (structural particle)",
         "level": "1",
-        "sentences": "2, 4, 33, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52， 55"
+        "sentences": "2, 4, 33, 40, 41, 44, 46, 47, 48, 49, 50, 51, 52, 55, 57, 58, 91, 100, 104, 106, 108, 123. 124, 127, 130, 136, 137, 153, 173, 180, 182, 187, 192, 194, 195, 200, 207, 214, 215, 218, 219, 226, 228"
     },{
         "id": 15,
         "chinese": "点",
         "pinyin": "dian3",
         "definition": "precise time, small amount, a little bit",
         "level": "1",
-        "sentences": "5, 29, 54, 53, 54, 55, 56"
+        "sentences": "5, 29, 54, 142"
     },{
         "id": 16,
         "chinese": "电脑",
         "pinyin": "dian4nao3",
         "definition": "computer",
         "level": "1",
-        "sentences": ""
+        "sentences": "57, 58, 59, 180"
     },{
         "id": 17,
         "chinese": "电视",
         "pinyin": "dian4shi4",
         "definition": "TV, television",
         "level": "1",
-        "sentences": ""
+        "sentences": "60, 61"
     },{
         "id": 18,
         "chinese": "电影",
         "pinyin": "dian4ying4",
         "definition": "movie",
         "level": "1",
-        "sentences": ""
+        "sentences": "62, 63, 148"
     },{
         "id": 19,
         "chinese": "东西",
         "pinyin": "dong1xi5",
         "definition": "thing",
         "level": "1",
-        "sentences": ""
+        "sentences": "30, 33, 64, 65"
     },{
         "id": 20,
         "chinese": "都",
         "pinyin": "dou1",
         "definition": "all",
         "level": "1",
-        "sentences": ""
+        "sentences": "66, 67, 68"
     },{
         "id": 21,
         "chinese": "读",
         "pinyin": "du2",
         "definition": "to read (outloud)",
         "level": "1",
-        "sentences": ""
+        "sentences": "69, 70"
     },{
         "id": 22,
         "chinese": "对不起",
         "pinyin": "dui4bu5qi3",
         "definition": "I'm sorry",
         "level": "1",
-        "sentences": ""
+        "sentences": "21, 71, 72, 73"
     },{
         "id": 23,
         "chinese": "多",
         "pinyin": "duo1",
         "definition": "many, much",
         "level": "1",
-        "sentences": ""
+        "sentences": "33, 41, 45,  46, 74, 75, 77, 78, 79, 80, 81, 82, 83, 194"
     },{
         "id": 24,
         "chinese": "多少",
         "pinyin": "duo1shao5",
         "definition": "how many, how much (numbers greater than ten, measure word is optional)",
         "level": "1",
-        "sentences": ""
+        "sentences": "41, 75, 76, 77, 81, 82, 194"
     },{
         "id": 25,
         "chinese": "儿子",
         "pinyin": "er2zi5",
         "definition": "son",
         "level": "1",
-        "sentences": ""
+        "sentences": "51, 84, 219"
     },{
         "id": 26,
         "chinese": "二",
         "pinyin": "er4",
         "definition": "two",
         "level": "1",
-        "sentences": ""
+        "sentences": "4, 86, 87"
     },{
         "id": 27,
         "chinese": "饭店",
         "pinyin": "fan4dian4",
         "definition": "restaurant",
         "level": "1",
-        "sentences": ""
+        "sentences": "39, 88, 89, 90"
     },{
         "id": 28,
         "chinese": "飞机",
         "pinyin": "fei1ji1",
         "definition": "airplane",
         "level": "1",
-        "sentences": ""
+        "sentences": "83, 91, 92"
     },{
         "id": 29,
         "chinese": "分钟",
         "pinyin": "fen1zhong1",
         "definition": "minute",
         "level": "1",
-        "sentences": ""
+        "sentences": "87, 83, 94"
     },{
         "id": 30,
         "chinese": "高兴",
         "pinyin": "gao1xing4",
         "definition": "happy",
         "level": "1",
-        "sentences": ""
+        "sentences": "95, 96"
     },{
         "id": 31,
         "chinese": "个",
         "pinyin": "ge4",
         "definition": "(CL: people, general objects)",
         "level": "1",
-        "sentences": ""
+        "sentences": "10, 11, 21, 62, 69, 75, 76, 82, 84, 86, 97, 98, 99, 100, 115, 148, 198, 209"
     },{
         "id": 32,
         "chinese": "工作",
         "pinyin": "gong1zuo4",
         "definition": "work",
         "level": "1",
-        "sentences": ""
+        "sentences": "20, 49, 90, 91, 101, 102, 103, 104, 154, 222"
     },{
         "id": 33,
         "chinese": "狗",
         "pinyin": "gou3",
         "definition": "dog",
         "level": "1",
-        "sentences": ""
+        "sentences": "2, 105, 106"
     },{
         "id": 34,
         "chinese": "汉语",
         "pinyin": "han2yu3",
         "definition": "Chinse language",
         "level": "1",
-        "sentences": ""
+        "sentences": "107, 108"
     },{
         "id": 35,
         "chinese": "好",
