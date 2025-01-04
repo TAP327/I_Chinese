@@ -1086,7 +1086,7 @@
         "english": "I want to sleep."
     },{
         "id": 217,
-        "chinese": "听我说",
+        "chinese": "听/我/说/。",
         "pinyin": "ting1/wo3/shuo1/.",
         "english": "Listen to me."
     },{
@@ -1111,23 +1111,23 @@
         "english": "It's raining now."
     },{
         "id": 222,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "你/是/不/是/学生/？",
+        "pinyin": "ni3/shi4/bu2/shi4/xue2sheng5/?",
+        "english": "Are you a student?"
     },{
         "id": 223,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "医生/在/医院/工作/。",
+        "pinyin": "yi1sheng1/zai4/yi1yuan4/gong1zuo4/.",
+        "english": "Doctors work in hospitals."
     },{
         "id": 224,
-        "chinese": "",
-        "pinyin": "",
-        "english": ""
+        "chinese": "她/坐/在/椅子/上/。",
+        "pinyin": "ta1/zuo4/zai4/yi3zi5/shang5/.",
+        "english": "She sits in the chair."
     },{
         "id": 225,
         "chinese": "",
-        "pinyin": "",
+        "pinyin": "fei1ji",
         "english": ""
     },{
         "id": 226,
