@@ -5,14 +5,14 @@
         "pinyin": "ai4",
         "definition": "to like, to love, love",
         "level": "1",
-        "sentences": "0, 1, 2, 34, 38"
+        "sentences": "0, 1, 2, 34, 38, 60, 70, 166"
     },{
         "id": 1,
         "chinese": "八",
         "pinyin": "ba1",
         "definition": "eight",
         "level": "1",
-        "sentences": "3, 4, 5"
+        "sentences": "3, 4, 5, 85"
     },{
         "id": 2,
         "chinese": "爸爸",
@@ -26,7 +26,7 @@
         "pinyin": "bei1zi5",
         "definition": "cup",
         "level": "1",
-        "sentences": "10, 11"
+        "sentences": "10, 11, 115"
     },{
         "id": 4,
         "chinese": "北京",
@@ -40,7 +40,7 @@
         "pinyin": "ben3",
         "definition": "notebook, origin, root, (CL: books)",
         "level": "1",
-        "sentences": "12, 13, 14"
+        "sentences": "12, 13, 14, 164"
     },{
         "id": 6,
         "chinese": "不客气",
@@ -54,7 +54,7 @@
         "pinyin": "bu4 or bu2",
         "definition": "no, not",
         "level": "1",
-        "sentences": "16, 17, 18, 19, 20, 21, 22, 23, 27"
+        "sentences": "16, 17, 18, 19, 20, 21, 22, 23, 27, 108, 117, 156, 176, 222"
     },{
         "id": 8,
         "chinese": "菜",
@@ -1243,13 +1243,6 @@
         "chinese": "见",
         "pinyin": "jian4",
         "definition": "to see (a person), to meet",
-        "level": "1+",
-        "sentences": ""
-    },{
-        "id": 176,
-        "chinese": "",
-        "pinyin": "",
-        "definition": "",
         "level": "1+",
         "sentences": ""
     }
