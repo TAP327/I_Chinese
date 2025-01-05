@@ -831,7 +831,7 @@
         "english": "She's my mom."
     },{
         "id": 166,
-        "chinese": "妈妈，我爱你。",
+        "chinese": "妈妈/，/我/爱/你/。",
         "pinyin": "ma1ma5/,/wo3/ai4/ni3/.",
         "english": "Mom, I love you."
     },{
@@ -921,7 +921,7 @@
         "english": "Where do you live?"
     },{
         "id": 184,
-        "chinese": "那你呢？",
+        "chinese": "那/你/呢/？",
         "pinyin": "na4/ni3/ne5/?",
         "english": "And you?"
     },{
@@ -1142,6 +1142,11 @@
     },{
         "id": 228,
         "chinese": "这/是/我/女儿/的/同学/。",
+        "pinyin": "zhe4/shi4/wo3/nv3er2/de5/tong2xue2/.",
+        "english": "This is my daughter's classmate."
+    },{
+        "id": 229,
+        "chinese": "明天是二月",
         "pinyin": "zhe4/shi4/wo3/nv3er2/de5/tong2xue2/.",
         "english": "This is my daughter's classmate."
     }
