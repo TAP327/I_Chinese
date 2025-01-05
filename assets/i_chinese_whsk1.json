@@ -250,266 +250,266 @@
         "pinyin": "hao3",
         "definition": "good, well",
         "level": "1",
-        "sentences": ""
+        "sentences": "11, 19, 67, 68, 108, 109, 110, 111, 112, 113 114, 115, 116, 117, 128, 185, 226"
     },{
         "id": 36,
         "chinese": "号",
         "pinyin": "hao4",
         "definition": "number, day of the month",
         "level": "1",
-        "sentences": ""
+        "sentences": "3"
     },{
         "id": 37,
         "chinese": "喝",
         "pinyin": "he1",
         "definition": "to drink",
         "level": "1",
-        "sentences": ""
+        "sentences": "29, 53, 119, 120"
     },{
         "id": 38,
         "chinese": "和",
         "pinyin": "he2",
         "definition": "and",
         "level": "1",
-        "sentences": ""
+        "sentences": "84, 118"
     },{
         "id": 39,
         "chinese": "很",
         "pinyin": "hen3",
         "definition": "very, to be (adjective)",
         "level": "1",
-        "sentences": ""
+        "sentences": "0, 11, 26, 28, 33, 43, 50, 78, 79, 80, 83, 95, 96, 111, 112, 115, 121, 122, 123, 124, 125, 126, 185, 196, 203"
     },{
         "id": 40,
         "chinese": "后面",
         "pinyin": "hou4mian4",
         "definition": "behind",
         "level": "1",
-        "sentences": ""
+        "sentences": "99, 127, 128"
     },{
         "id": 41,
         "chinese": "回",
         "pinyin": "hui2",
         "definition": "to return",
         "level": "1",
-        "sentences": ""
+        "sentences": "5, 7, 9, 24, 129, 130, 151, 178"
     },{
         "id": 42,
         "chinese": "会",
         "pinyin": "hui4",
         "definition": "to be able to (skills)",
         "level": "1",
-        "sentences": ""
+        "sentences": "47, 56, 131"
     },{
         "id": 43,
         "chinese": "几",
         "pinyin": "ji3",
         "definition": "some, how many, how much (numbers less than ten, measure word is not optional)",
         "level": "1",
-        "sentences": ""
+        "sentences": "12, 94, 132, 133, 134"
     },{
         "id": 44,
         "chinese": "家",
         "pinyin": "jia1",
         "definition": "house, home, family",
         "level": "1",
-        "sentences": ""
+        "sentences": "5, 7, 8, 9, 43, 99, 130, 135, 136, 137"
     },{
         "id": 45,
         "chinese": "叫",
         "pinyin": "jiao4",
         "definition": "to call (a name)",
         "level": "1",
-        "sentences": ""
+        "sentences": "42, 105, 138"
     },{
         "id": 46,
         "chinese": "今天",
         "pinyin": "jin1tian1",
         "definition": "today",
         "level": "1",
-        "sentences": ""
+        "sentences": "3, 19, 35, 104, 125, 131, 134, 139, 140, 141, 175, 176"
     },{
         "id": 47,
         "chinese": "九",
         "pinyin": "jiu3",
         "definition": "nine",
         "level": "1",
-        "sentences": ""
+        "sentences": "85, 142"
     },{
         "id": 48,
         "chinese": "开",
         "pinyin": "kai1",
         "definition": "to open, to start, to drive",
         "level": "1",
-        "sentences": ""
+        "sentences": "61"
     },{
         "id": 49,
         "chinese": "看",
         "pinyin": "kan4",
         "definition": "to see, to read",
         "level": "1",
-        "sentences": ""
+        "sentences": "11, 60, 62, 63, 115, 143, 144, 145, 146, 147, 148"
     },{
         "id": 50,
         "chinese": "看见",
         "pinyin": "kan4jian4",
         "definition": "to see",
         "level": "1",
-        "sentences": ""
+        "sentences": "145, 148"
     },{
         "id": 51,
         "chinese": "块",
         "pinyin": "kuai4",
         "definition": "piece, (CL: items of clothing, money)",
         "level": "1",
-        "sentences": ""
+        "sentences": "149, 150"
     },{
         "id": 52,
         "chinese": "来",
         "pinyin": "lai2",
         "definition": "to come",
         "level": "1",
-        "sentences": ""
+        "sentences": "47, 66, 129, 140, 151, 152, 178, 192, 218"
     },{
         "id": 53,
         "chinese": "老师",
         "pinyin": "lao3shi1",
         "definition": "teacher",
         "level": "1",
-        "sentences": ""
+        "sentences": "46, 68, 103, 153, 154"
     },{
         "id": 54,
         "chinese": "了",
         "pinyin": "le5",
         "definition": "(modal particle: intensifies the previous action, indicates a completed action)",
         "level": "1",
-        "sentences": ""
+        "sentences": "31, 32, 36, 45, 46, 66, 71, 74, 80, 87, 129, 141, 145, 147, 148, 149, 151, 155, 156, 157, 158, 159, 189"
     },{
         "id": 55,
         "chinese": "冷",
         "pinyin": "leng3",
         "definition": "cold",
         "level": "1",
-        "sentences": ""
+        "sentences": "26, 56, 141"
     },{
         "id": 56,
         "chinese": "里",
         "pinyin": "li3",
         "definition": "inside",
         "level": "1",
-        "sentences": ""
+        "sentences": "33, 79, 160, 161, 162, 163"
     },{
         "id": 57,
         "chinese": "六",
         "pinyin": "liu4",
         "definition": "six",
         "level": "1",
-        "sentences": ""
+        "sentences": "164"
     },{
         "id": 58,
         "chinese": "妈妈",
         "pinyin": "ma1ma5",
         "definition": "mom",
         "level": "1",
-        "sentences": ""
+        "sentences": "0, 50, 164, 165, 166, 178"
     },{
         "id": 59,
         "chinese": "吗",
         "pinyin": "ma5",
         "definition": "(question particle: yes or no questions, used at the end of the sentence)",
         "level": "1",
-        "sentences": ""
+        "sentences": "8, 18, 26, 29, 32, 37, 40, 44, 55, 110, 114, 116, 147, 161, 162, 167, 168, 174, 189, 191"
     },{
         "id": 60,
         "chinese": "买",
         "pinyin": "mai3",
         "definition": "to buy",
         "level": "1",
-        "sentences": ""
+        "sentences": "21, 64, 65, 122, 157, 160, 169"
     },{
         "id": 61,
         "chinese": "猫",
         "pinyin": "mao1",
         "definition": "cat",
         "level": "1",
-        "sentences": ""
+        "sentences": "170, 171"
     },{
         "id": 62,
         "chinese": "没关系",
         "pinyin": "mei2guan1xi5",
         "definition": "it doesn't matter",
         "level": "1",
-        "sentences": ""
+        "sentences": "73"
     },{
         "id": 63,
         "chinese": "没有",
         "pinyin": "mei2you3",
         "definition": "not have",
         "level": "1",
-        "sentences": ""
+        "sentences": "171, 172, 173, 199"
     },{
         "id": 64,
         "chinese": "米饭",
         "pinyin": "mi3fan4",
         "definition": "cooked rice",
         "level": "1",
-        "sentences": ""
+        "sentences": "34, 35, 174, 175"
     },{
         "id": 65,
         "chinese": "明天",
         "pinyin": "ming2tian1",
         "definition": "tomorrow",
         "level": "1",
-        "sentences": ""
+        "sentences": "7, 27, 56, 63, 177, 178, 179, 203"
     },{
         "id": 66,
         "chinese": "名字",
         "pinyin": "ming2zi5",
         "definition": "name",
         "level": "1",
-        "sentences": ""
+        "sentences": "48, 138"
     },{
         "id": 67,
         "chinese": "哪",
         "pinyin": "na3",
         "definition": "which",
         "level": "1",
-        "sentences": ""
+        "sentences": "58, 88, 106, 150, 160, 179, 181, 182, 183"
     },{
         "id": 68,
         "chinese": "哪儿",
         "pinyin": "nar3",
         "definition": "where",
         "level": "1",
-        "sentences": ""
+        "sentences": "58, 88, 106, 179, 181, 182, 183"
     },{
         "id": 69,
         "chinese": "那",
         "pinyin": "na4",
         "definition": "that",
         "level": "1",
-        "sentences": ""
+        "sentences": "51, 100, 113, 137, 180, 184"
     },{
         "id": 70,
         "chinese": "呢",
         "pinyin": "ne5",
         "definition": "(question particle: asking for confirmation, opinion, or position)",
         "level": "1",
-        "sentences": ""
+        "sentences": "111, 184, 185, 186"
     },{
         "id": 71,
         "chinese": "能",
         "pinyin": "neng2",
         "definition": "to be able to (normally physically)",
         "level": "1",
-        "sentences": ""
+        "sentences": "17, 21, 27"
     },{
         "id": 72,
         "chinese": "你",
         "pinyin": "ni3",
         "definition": "you (informal)",
         "level": "1",
-        "sentences": ""
+        "sentences": "1, 6, 8, 9, 12, 15, 18, 21, 24, 29, 31, 32, 36, 37, 44, 45, 46, 48, 49, 50, 55, 95, 96, 101, 106, 109, 110, 111, 114, 119, 123, 132, 132, 136, 138, 140, 146, 147, 150, 157, 158, 161, 162, 166, 167, 168, 171, 173, 174, 179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 196, 208, 210, 222, 227"
     },{
         "id": 73,
         "chinese": "年",
@@ -1216,7 +1216,7 @@
         "pinyin": "ni3men5",
         "definition": "you guys",
         "level": "1+",
-        "sentences": ""
+        "sentences": "190"
     },{
         "id": 174,
         "chinese": "三十一",
@@ -1245,5 +1245,19 @@
         "definition": "to see (a person), to meet",
         "level": "1+",
         "sentences": ""
+    },{
+        "id": 177,
+        "chinese": "那儿",
+        "pinyin": "nar4",
+        "definition": "there",
+        "level": "1+",
+        "sentences": "137, 180"
+    },{
+        "id": 178,
+        "chinese": "那么",
+        "pinyin": "na4me5",
+        "definition": "that much",
+        "level": "1+",
+        "sentences": "113"
     }
 ]
