@@ -441,9 +441,9 @@
         "english": "Yesterday I studied for twenty minutes."
     },{
         "id": 88,
-        "chinese": "请问/，/饭店/在/哪儿/？",
-        "pinyin": "qing3/wen4/,/fan4dian4/zai4/nar3/?",
-        "english": "May I ask where the restaurant is?"
+        "chinese": "饭店/在/哪儿/？",
+        "pinyin": "fan4dian4/zai4/nar3/?",
+        "english": "Where is the restaurant?"
     },{
         "id": 89,
         "chinese": "我/想/去/饭店/吃/晚饭/。",
@@ -801,9 +801,9 @@
         "english": "I lived in China for three years."
     },{
         "id": 160,
-        "chinese": "请/问/，/哪/里/可以/买/到/衣服/？",
-        "pinyin": "qing3/wen4/,/na3/li3/ke3yi3/mai3/dao4/yi1fu5/?",
-        "english": "Excuse me, where can you buy clothes?"
+        "chinese": "哪/里/可以/买/到/衣服/？",
+        "pinyin": "na3/li3/ke3yi3/mai3/dao4/yi1fu5/?",
+        "english": "Where can you buy clothes?"
     },{
         "id": 161,
         "chinese": "你/住/在/这/里/吗/？",
@@ -1006,9 +1006,9 @@
         "english": "We're in front of the school."
     },{
         "id": 201,
-        "chinese": "请/问",
-        "pinyin": "qing3/wen4",
-        "english": "Excuse me... (starting a question)"
+        "chinese": "我/没/听/见/你/说/什么/。",
+        "pinyin": "wo3/mei2/ting1/jian4/ni3/shuo1/shen2me5/.",
+        "english": "I didn't hear what you said."
     },{
         "id": 202,
         "chinese": "请/坐/！",
