@@ -509,7 +509,7 @@
         "pinyin": "ni3",
         "definition": "you (informal)",
         "level": "1",
-        "sentences": "1, 6, 8, 9, 12, 15, 18, 21, 24, 29, 31, 32, 36, 37, 44, 45, 46, 48, 49, 50, 55, 95, 96, 101, 106, 109, 110, 111, 114, 119, 123, 132, 132, 136, 138, 140, 146, 147, 150, 157, 158, 161, 162, 166, 167, 168, 171, 173, 174, 179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 196, 208, 210, 222, 227"
+        "sentences": "1, 6, 8, 9, 12, 15, 18, 21, 24, 29, 31, 32, 36, 37, 44, 45, 46, 48, 49, 50, 55, 95, 96, 101, 106, 109, 110, 111, 114, 119, 123, 132, 132, 136, 138, 140, 146, 147, 150, 157, 158, 161, 162, 166, 167, 168, 171, 173, 174, 179, 180, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 196, 201, 208, 210, 222, 227"
     },{
         "id": 73,
         "chinese": "年",
@@ -649,7 +649,7 @@
         "pinyin": "shen2me5",
         "definition": "what",
         "level": "1",
-        "sentences": "9, 24, 31, 36, 101, 119, 138, 146, 157, 158, 186, 186, 188, 190, 192, 193, 208, 209, 210, 211"
+        "sentences": "9, 24, 31, 36, 101, 119, 138, 146, 157, 158, 186, 186, 188, 190, 192, 193, 201, 208, 209, 210, 211"
     },{
         "id": 93,
         "chinese": "十",
@@ -705,77 +705,77 @@
         "pinyin": "shuo1",
         "definition": "to talk",
         "level": "1",
-        "sentences": "190, 191, 217"
+        "sentences": "190, 191, 201, 217"
     },{
         "id": 101,
         "chinese": "四",
         "pinyin": "si4",
         "definition": "four",
         "level": "1",
-        "sentences": ""
+        "sentences": "4, 85, 198"
     },{
         "id": 102,
         "chinese": "岁",
         "pinyin": "sui4",
         "definition": "years of age",
         "level": "1",
-        "sentences": ""
+        "sentences": "132, 205"
     },{
         "id": 103,
         "chinese": "他",
         "pinyin": "ta1",
         "definition": "he",
         "level": "1",
-        "sentences": ""
+        "sentences": "6, 63, 68, 91, 99, 118, 127, 130, 145, 153, 154, 204, 206, 211, 218"
     },{
         "id": 104,
         "chinese": "她",
         "pinyin": "ta1",
         "definition": "she",
         "level": "1",
-        "sentences": ""
+        "sentences": "16, 84, 121, 151, 165, 167, 198, 213, 214, 224"
     },{
         "id": 105,
         "chinese": "太",
         "pinyin": "tai4",
         "definition": "too",
         "level": "1",
-        "sentences": ""
+        "sentences": "108, 141"
     },{
         "id": 106,
         "chinese": "天气",
         "pinyin": "tian1qi5",
         "definition": "weather",
         "level": "1",
-        "sentences": ""
+        "sentences": "19, 116, 117, 126, 141, 203"
     },{
         "id": 107,
         "chinese": "听",
         "pinyin": "ting1",
         "definition": "to hear",
         "level": "1",
-        "sentences": ""
+        "sentences": "201, 217"
     },{
         "id": 108,
         "chinese": "同学",
         "pinyin": "tong2xue2",
         "definition": "classmate",
         "level": "1",
-        "sentences": ""
+        "sentences": "51, 100, 167, 214, 228"
     },{
         "id": 109,
         "chinese": "喂",
         "pinyin": "wei4",
         "definition": "hey (over the phone)",
         "level": "1",
-        "sentences": ""
+        "sentences": "8, 114"
     },{
         "id": 110,
         "chinese": "我",
         "pinyin": "wo3",
         "definition": "I",
         "level": "1",
-        "sentences": ""
+        "sentences": "0, 1, 2, 4, 5, 7, 17, 20, 22, 23, 25, 27, 28, 30, 34, 35, 38, 39, 40, 47, 51, 52, 53, 57, 58, 60, 62, 64, 65, 66, 67, 70, 71, 87, 89, 90, 92, 93, 94, 95, 97, 98, 100, 102, 103, 107, 108, 111, 113, 120, 122, 124, 127, 129, 130, 136, 137, 142, 144, 145, 148, 149, 153, 156, 159, 164, 165, 166, 169, 173, 175, 176, 178, 185, 187, 195, 199, 200, 201, 204, 205, 212, 214, 215, 216, 217, 219, 220, 228"
     },{
         "id": 111,
         "chinese": "我们",
@@ -789,49 +789,49 @@
         "pinyin": "wu3",
         "definition": "five",
         "level": "1",
-        "sentences": ""
+        "sentences": "4, 86, 98"
     },{
         "id": 113,
         "chinese": "喜欢",
         "pinyin": "xi3huan5",
         "definition": "to like",
         "level": "1",
-        "sentences": ""
+        "sentences": "18, 22, 23, 28, 122, 150, 162, 187"
     },{
         "id": 114,
         "chinese": "下",
         "pinyin": "xia4",
-        "definition": "down, below",
+        "definition": "down, below, next",
         "level": "1",
-        "sentences": ""
+        "sentences": "48, 80, 131, 152, 155, 156, 179, 210, 221"
     },{
         "id": 115,
-        "chinese": "下年",
-        "pinyin": "xia4nian2",
-        "definition": "next year",
+        "chinese": "下午",
+        "pinyin": "xia4wu3",
+        "definition": "afternoon",
         "level": "1",
-        "sentences": ""
+        "sentences": "156, 179, 210"
     },{
         "id": 116,
         "chinese": "下雨",
         "pinyin": "xia4yu3",
-        "definition": "to rain",
+        "definition": "to rain (rain comes down)",
         "level": "1",
-        "sentences": ""
+        "sentences": "131, 155, 221"
     },{
         "id": 117,
         "chinese": "先生",
         "pinyin": "xian1sheng5",
         "definition": "Mr., husband, sir",
         "level": "1",
-        "sentences": ""
+        "sentences": "52, 72"
     },{
         "id": 118,
         "chinese": "现在",
         "pinyin": "xian4zai4",
         "definition": "now",
         "level": "1",
-        "sentences": ""
+        "sentences": "16, 54, 133, 135, 173, 221"
     },{
         "id": 119,
         "chinese": "想",
@@ -1244,7 +1244,7 @@
         "pinyin": "jian4",
         "definition": "to see (a person), to meet",
         "level": "1+",
-        "sentences": ""
+        "sentences": "201"
     },{
         "id": 178,
         "chinese": "那儿",
@@ -1263,6 +1263,20 @@
         "id": 180,
         "chinese": "今年",
         "pinyin": "jin1nian2",
+        "definition": "this year",
+        "level": "1+",
+        "sentences": "45"
+    },{
+        "id": 181,
+        "chinese": "没",
+        "pinyin": "mei2",
+        "definition": "no, not (used with 有 and past actions)",
+        "level": "1+",
+        "sentences": "201"
+    },{
+        "id": 182,
+        "chinese": "见",
+        "pinyin": "jian4",
         "definition": "this year",
         "level": "1+",
         "sentences": "45"
