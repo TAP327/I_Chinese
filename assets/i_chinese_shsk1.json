@@ -256,7 +256,7 @@
         "english": "Your mom is pretty."
     },{
         "id": 51,
-        "chinese": "那/是/我/的/儿子/的同学。",
+        "chinese": "那/是/我/的/儿子/的/同学。",
         "pinyin": "na4/shi4/wo3/de5/er2zi5/de5/tong2xue2/.",
         "english": "That is my son's classmate."
     },{
@@ -1146,7 +1146,7 @@
         "english": "This is my daughter's classmate."
     },{
         "id": 229,
-        "chinese": "明天是二月",
+        "chinese": "这/是/我/女儿/的/同学/。",
         "pinyin": "zhe4/shi4/wo3/nv3er2/de5/tong2xue2/.",
         "english": "This is my daughter's classmate."
     }
