@@ -7,6 +7,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 
 find_package(SDL2 REQUIRED CONFIG)
 find_package(SQLite3 REQUIRED)
+find_package(SDL_ttf REQUIRED)
 
 file(GLOB_RECURSE SOURCES "src/*.c")
 
@@ -15,12 +16,14 @@ add_executable(I_Chinese ${SOURCES})
 target_link_libraries(I_Chinese PRIVATE 
     SDL2::SDL2
     SQLite::SQLite3
+    SDL_ttf::SDL_tff
 )
 
 target_include_directories(I_Chinese PRIVATE ${CMAKE_SOURCE_DIR})
 target_include_directories(I_Chinese PRIVATE include 
     ${SDL2_INCLUDE_DIRS}
     ${SQLite3_INCLUDE_DIRS}
+    ${SDL_ttf_INCLUDE_DIRS}
 )
 
 target_compile_options(I_Chinese PRIVATE -Wall -Wextra -Wpedantic)

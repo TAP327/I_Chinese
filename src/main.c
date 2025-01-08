@@ -2,9 +2,10 @@
 #include <stdbool.h>
 #include <SDL.h>
 #include <SDL_timer.h>
+#include <SDL_ttf.h>
 #include <stdint.h>
 #include "include/db/db.h"
-#include "include/graphics/home.h"
+#include "include/graphics/graphics.h"
 
 int main(void) {
     sqlite3 *db_handle = init_db_engine("./assets/i_chinese.db");
@@ -49,6 +50,11 @@ int main(void) {
 
     set_bg(renderer);
 
+    if (TTF_Init() < 0) {
+        printf("Couldn't initialized SDL TFF: %s\n", SDL_GetError());
+        exit(1);
+    }
+
     // Keep the window open, in this case SDL_Delay(5000); statement won't work.
     bool running = true;
     while (running) {
@@ -63,6 +69,7 @@ int main(void) {
 
     // clean up resources before exiting.
     close_db_engine(db_handle);
+    TTF_Quit();
     SDL_DestroyWindow(window);
     SDL_Quit();
 }
