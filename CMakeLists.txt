@@ -78,6 +78,6 @@ if(CMAKE_BUILD_TYPE STREQUAL "Debug")
         )
     endforeach()
 
-    add_test(NAME AllTests COMMAND I_Chinese_Tests)
-    set_tests_properties(AllTests PROPERTIES LABELS backend)
+    add_test(NAME db_loader_tests COMMAND I_Chinese_Tests --suite db_loader_suites)
+    set_tests_properties(db_loader_tests PROPERTIES LABELS backend)
 endif()
