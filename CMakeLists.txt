@@ -51,6 +51,7 @@ if(CMAKE_BUILD_TYPE STREQUAL "Debug")
     find_package(Criterion REQUIRED MODULE)
     find_package(SDL2 REQUIRED CONFIG)
     find_package(SQLite3 REQUIRED)
+    find_package(SDL2_ttf REQUIRED)
 
     file(GLOB_RECURSE TEST_SOURCES "tests/*.c")
     file(GLOB_RECURSE SOURCES "src/db/*.c")
@@ -60,11 +61,13 @@ if(CMAKE_BUILD_TYPE STREQUAL "Debug")
         ${CRITERION_INCLUDE_DIRS}
         ${SDL2_INCLUDE_DIRS}
         ${SQLite3_INCLUDE_DIRS}
+        ${SDL2_ttf_INCLUDE_DIRS}
     )
     target_link_libraries(I_Chinese_Tests PRIVATE
         ${CRITERION_LIBRARIES}
         SDL2::SDL2
         SQLite::SQLite3
+        SDL2_ttf::SDL2_ttf
     )
 
     set(ASSET_DIR "${CMAKE_SOURCE_DIR}/assets")
