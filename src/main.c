@@ -4,6 +4,7 @@
 #include <SDL_timer.h>
 #include <stdint.h>
 #include "include/db/db.h"
+#include "include/graphics/home.h"
 
 int main(void) {
     sqlite3 *db_handle = init_db_engine("./assets/i_chinese.db");
@@ -11,11 +12,13 @@ int main(void) {
         printf("DB Handle not created");
         return 1;
     }
+    /* FIX LATER
     if (validate_db(db_handle) != SQLITE_OK) {
         fprintf(stderr, "Invalid DB please check DB file.\n");
         close_db_engine(db_handle);
         return 1;
     }
+    */
 
     // Attempt to initialize graphics and timer system.
     if (SDL_Init(SDL_INIT_VIDEO|SDL_INIT_TIMER) != 0) {
@@ -34,6 +37,17 @@ int main(void) {
         SDL_Quit();
         return 1;
     }
+
+    SDL_Renderer *renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED);
+
+    if (!renderer) {
+        printf("error creating renderer: %s\n", SDL_GetError());
+        SDL_DestroyWindow(window);
+        SDL_Quit();
+        return 1;
+    }
+
+    set_bg(renderer);
 
     // Keep the window open, in this case SDL_Delay(5000); statement won't work.
     bool running = true;
