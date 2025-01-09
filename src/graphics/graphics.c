@@ -9,7 +9,16 @@ void set_bg(SDL_Renderer *renderer) {
     SDL_RenderPresent(renderer);
 }
 
-void title_txt(void) {
+SDL_Texture *get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color *color, const char *file, const int size) {
+    TTF_Font *font = TTF_OpenFont(file, size);
+
+    SDL_Surface *surface = TTF_RenderUTF8_Blended(font, text, *color);
+    SDL_Texture *texture = SDL_CreateTextureFromSurface(renderer, surface);
+
+    return texture;
+}
+
+void render_txt(void) {
     SDL_DisplayMode DM;
     if (SDL_GetCurrentDisplayMode(0, &DM) == 0) {
         int hs_h = DM.h;
@@ -18,5 +27,4 @@ void title_txt(void) {
     else {
         printf("Home screen dimensions not found.");
     }
-    
 }
