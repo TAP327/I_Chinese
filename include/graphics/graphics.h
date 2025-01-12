@@ -14,7 +14,7 @@ typedef struct {
 
 void set_bg(SDL_Renderer *renderer);
 TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color *color, const char *file, const int size);
-Position get_proportional_pos(int down_shift, int right_shift);
+Position get_proportional_pos(float down_shift, float right_shift);
 void render_txt(SDL_Renderer *renderer, TextTexture *texture, Position *pos);
 void destory_TextTexture (TextTexture *txt_texture);
 

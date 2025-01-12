@@ -40,7 +40,7 @@ TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color 
     return txt_texture;
 }
 
-Position get_proportional_pos(int down_shift, int right_shift) {
+Position get_proportional_pos(float down_shift, float right_shift) {
     Position pos = {
         0,
         0
@@ -51,10 +51,10 @@ Position get_proportional_pos(int down_shift, int right_shift) {
         int hs_h = DM.h;
         int hs_w = DM.w;
 
-        pos.x = 100;
-        pos.y = 100;
-        //pos.x = hs_w*right_shift;
-        //pos.y = hs_h*down_shift;   
+        //pos.x = 100;
+        //pos.y = 100;
+        pos.x = (int)(hs_w*right_shift);
+        pos.y = (int)(hs_h*down_shift);   
     }
     else {
         printf("Home screen dimensions not found.");
@@ -68,8 +68,13 @@ void render_txt(SDL_Renderer *renderer, TextTexture *texture, Position *pos) {
         fprintf(stderr, "Invalid parameters passed to render_txt.\n");
         return;
     }
-    SDL_Rect *dest_rect = {pos->x, pos->y, texture->width, texture->height};
-    if (SDL_RenderCopy(renderer,texture->texture, NULL, dest_rect) != 0) {
+    SDL_Rect dest_rect = {
+        .x = pos->x, 
+        .y= pos->y, 
+        .w = texture->width, 
+        .h = texture->height
+    };
+    if (SDL_RenderCopy(renderer,texture->texture, NULL, &dest_rect) != 0) {
         fprintf(stderr, "SDL_RenderCopy failed to render text: %s\n", SDL_GetError());
     }
 }
