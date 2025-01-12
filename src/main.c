@@ -53,7 +53,6 @@ int main(void) {
         exit(1);
     }
 
-    launch_home(renderer);
 
     // Keep the window open, in this case SDL_Delay(5000); statement won't work.
     bool running = true;
@@ -65,6 +64,8 @@ int main(void) {
                 break;
             }
         }
+        launch_home(renderer);
+        SDL_RenderPresent(renderer);
      }
 
     // clean up resources before exiting.

@@ -9,7 +9,6 @@
 void set_bg(SDL_Renderer *renderer) {
     SDL_SetRenderDrawColor(renderer, 0, 50, 100, 255);
     SDL_RenderClear(renderer);
-    SDL_RenderPresent(renderer);
 }
 
 TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color *color, const char *file, const int size) {
@@ -70,7 +69,7 @@ void render_txt(SDL_Renderer *renderer, TextTexture *texture, Position *pos) {
     }
     SDL_Rect dest_rect = {
         .x = pos->x, 
-        .y= pos->y, 
+        .y = pos->y, 
         .w = texture->width, 
         .h = texture->height
     };
