@@ -2,6 +2,9 @@
 #include <SDL_timer.h>
 #include <SDL_ttf.h>
 #include "include/graphics/graphics.h"
+#include <SDL_rwops.h>
+#include <zlib.h>
+
 
 void set_bg(SDL_Renderer *renderer) {
     SDL_SetRenderDrawColor(renderer, 0, 50, 100, 255);
@@ -9,10 +12,10 @@ void set_bg(SDL_Renderer *renderer) {
     SDL_RenderPresent(renderer);
 }
 
-TextTexture *get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color *color, const char *file, const int size) {
+TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color *color, const char *file, const int size) {
     TTF_Font *font = TTF_OpenFont(file, size);
 
-    TextTexture *txt_texture = {
+    TextTexture txt_texture = {
         NULL,
         0,
         0
@@ -24,20 +27,21 @@ TextTexture *get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color
         return txt_texture;
     }
 
-    txt_texture->texture = SDL_CreateTextureFromSurface(renderer, surface);
-    if (!txt_texture->texture) {
+    SDL_Texture *texture = SDL_CreateTextureFromSurface(renderer, surface);
+    txt_texture.texture = texture;
+    if (!txt_texture.texture) {
         fprintf(stderr, "Failed to create texture from surface: %s\n", SDL_GetError());
         return txt_texture;
     }
 
-    txt_texture->height = surface->h;
-    txt_texture->width = surface->w;
+    txt_texture.height = surface->h;
+    txt_texture.width = surface->w;
 
     return txt_texture;
 }
 
-Position *get_proportional_pos(int down_shift, int right_shift) {
-    Position *pos = {
+Position get_proportional_pos(int down_shift, int right_shift) {
+    Position pos = {
         0,
         0
     };
@@ -46,9 +50,11 @@ Position *get_proportional_pos(int down_shift, int right_shift) {
     if (SDL_GetCurrentDisplayMode(0, &DM) == 0) {
         int hs_h = DM.h;
         int hs_w = DM.w;
-    
-        pos->x = hs_w*right_shift;
-        pos->y = hs_h*down_shift;   
+
+        pos.x = 100;
+        pos.y = 100;
+        //pos.x = hs_w*right_shift;
+        //pos.y = hs_h*down_shift;   
     }
     else {
         printf("Home screen dimensions not found.");
@@ -58,7 +64,7 @@ Position *get_proportional_pos(int down_shift, int right_shift) {
 }
 
 void render_txt(SDL_Renderer *renderer, TextTexture *texture, Position *pos) {
-    if(!renderer || !texture || !texture->texture || !pos) {
+    if (!renderer || !texture || !texture->texture || !pos) {
         fprintf(stderr, "Invalid parameters passed to render_txt.\n");
         return;
     }

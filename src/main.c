@@ -5,7 +5,7 @@
 #include <SDL_ttf.h>
 #include <stdint.h>
 #include "include/db/db.h"
-#include "include/graphics/graphics.h"
+#include "include/graphics/home.h"
 
 int main(void) {
     sqlite3 *db_handle = init_db_engine("./assets/i_chinese.db");
@@ -48,12 +48,12 @@ int main(void) {
         return 1;
     }
 
-    set_bg(renderer);
-
     if (TTF_Init() < 0) {
         printf("Couldn't initialized SDL TFF: %s\n", SDL_GetError());
         exit(1);
     }
+
+    launch_home(renderer);
 
     // Keep the window open, in this case SDL_Delay(5000); statement won't work.
     bool running = true;
