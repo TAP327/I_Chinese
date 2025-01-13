@@ -516,133 +516,133 @@
         "pinyin": "nian2",
         "definition": "year",
         "level": "1",
-        "sentences": ""
+        "sentences": "45, 85, 86, 159"
     },{
         "id": 74,
         "chinese": "女儿",
         "pinyin": "nv3er2",
         "definition": "daughter",
         "level": "1",
-        "sentences": ""
+        "sentences": "45, 84, 97, 228, 229"
     },{
         "id": 75,
         "chinese": "朋友",
         "pinyin": "peng2you3",
         "definition": "friend",
         "level": "1",
-        "sentences": ""
+        "sentences": "67, 91, 195"
     },{
         "id": 76,
         "chinese": "漂亮",
         "pinyin": "piao2liang5",
         "definition": "pretty",
         "level": "1",
-        "sentences": ""
+        "sentences": "50, 121, 123, 196"
     },{
         "id": 77,
         "chinese": "苹果",
         "pinyin": "ping2guo3",
         "definition": "apple",
         "level": "1",
-        "sentences": ""
+        "sentences": "149, 197, 198"
     },{
         "id": 78,
         "chinese": "七",
         "pinyin": "qi1",
         "definition": "seven",
         "level": "1",
-        "sentences": ""
+        "sentences": "4, 99"
     },{
         "id": 79,
         "chinese": "钱",
         "pinyin": "qian2",
         "definition": "money",
         "level": "1",
-        "sentences": ""
+        "sentences": "75, 77, 81, 82, 173, 199"
     },{
         "id": 80,
         "chinese": "前面",
         "pinyin": "qian2mian4",
         "definition": "in front",
         "level": "1",
-        "sentences": ""
+        "sentences": "100, 136, 200"
     },{
         "id": 81,
         "chinese": "请",
         "pinyin": "qing3",
         "definition": "please (starts a question or invite)",
         "level": "1",
-        "sentences": ""
+        "sentences": "48, 61, 88, 143, 152, 160, 201, 202"
     },{
         "id": 82,
         "chinese": "去",
         "pinyin": "qu4",
         "definition": "to go",
         "level": "1",
-        "sentences": ""
+        "sentences": "17, 27, 39, 63, 65, 89, 142, 147, 156, 179, 189"
     },{
         "id": 83,
         "chinese": "热",
         "pinyin": "re4",
         "definition": "hot",
         "level": "1",
-        "sentences": ""
+        "sentences": "125, 203"
     },{
         "id": 84,
         "chinese": "人",
         "pinyin": "ren2",
         "definition": "person, people",
         "level": "1",
-        "sentences": ""
+        "sentences": "78, 99, 100, 172"
     },{
         "id": 85,
         "chinese": "认识",
         "pinyin": "ren4shi5",
         "definition": "to know (a person), to meet",
         "level": "1",
-        "sentences": ""
+        "sentences": "95, 96, 204"
     },{
         "id": 86,
         "chinese": "三",
         "pinyin": "san1",
         "definition": "three",
         "level": "1",
-        "sentences": ""
+        "sentences": "3, 4, 10, 84, 159, 204"
     },{
         "id": 87,
         "chinese": "商店",
         "pinyin": "shang1dian4",
         "definition": "store",
         "level": "1",
-        "sentences": ""
+        "sentences": "33, 43, 172"
     },{
         "id": 88,
         "chinese": "上",
         "pinyin": "shang4",
         "definition": "above, on",
         "level": "1",
-        "sentences": ""
+        "sentences": "10, 14, 17, 54, 59, 91, 92, 155, 158, 170, 224"
     },{
         "id": 89,
         "chinese": "上午",
         "pinyin": "shang4wu3",
-        "definition": "",
+        "definition": "morning",
         "level": "1",
-        "sentences": ""
+        "sentences": "54, 155, 158"
     },{
         "id": 90,
         "chinese": "少",
         "pinyin": "shao3",
         "definition": "a little",
         "level": "1",
-        "sentences": ""
+        "sentences": "41, 75, 76, 77, 81, 82, 194"
     },{
         "id": 91,
         "chinese": "谁",
         "pinyin": "shei2",
         "definition": "who",
         "level": "1",
-        "sentences": ""
+        "sentences": "206, 207"
     },{
         "id": 92,
         "chinese": "什么",
@@ -656,49 +656,49 @@
         "pinyin": "shi2",
         "definition": "ten",
         "level": "1",
-        "sentences": ""
+        "sentences": "3, 54, 86, 87, 93, 205"
     },{
         "id": 94,
         "chinese": "时候",
         "pinyin": "shi2hou4",
         "definition": "point in time",
         "level": "1",
-        "sentences": ""
+        "sentences": "94, 24, 130, 192"
     },{
         "id": 95,
         "chinese": "是",
         "pinyin": "shi4",
         "definition": "to be",
         "level": "1",
-        "sentences": ""
+        "sentences": "3, 4, 6, 40, 41, 51, 52, 54, 57, 67, 68, 100, 103, 133, 153, 154 165, 167, 194, 195, 197, 206, 207, 212, 213, 214, 215, 219, 222, 228, 229"
     },{
         "id": 96,
         "chinese": "书",
         "pinyin": "shu1",
         "definition": "book",
         "level": "1",
-        "sentences": ""
+        "sentences": "12, 13, 14 70, 143, 144, 163, 164"
     },{
         "id": 97,
         "chinese": "水",
         "pinyin": "shui3",
         "definition": "water",
         "level": "1",
-        "sentences": ""
+        "sentences": "38, 53, 118, 120"
     },{
         "id": 98,
         "chinese": "水果",
         "pinyin": "shui3guo3",
         "definition": "fruit",
         "level": "1",
-        "sentences": ""
+        "sentences": "37, 169, 197"
     },{
         "id": 99,
         "chinese": "睡觉",
         "pinyin": "shui4jiao4",
         "definition": "to sleep",
         "level": "1",
-        "sentences": ""
+        "sentences": "130, 170, 216"
     },{
         "id": 100,
         "chinese": "说",
@@ -782,7 +782,7 @@
         "pinyin": "wo3men5",
         "definition": "we",
         "level": "1",
-        "sentences": ""
+        "sentences": "40, 66, 67, 102, 153, 200, 220"
     },{
         "id": 112,
         "chinese": "五",
@@ -838,210 +838,210 @@
         "pinyin": "xiang3",
         "definition": "to want, to think",
         "level": "1",
-        "sentences": ""
+        "sentences": "29, 30, 35, 37, 39, 53, 62, 63, 65, 89, 94, 119, 120, 140, 144, 169, 175, 176, 216"
     },{
         "id": 120,
         "chinese": "小",
         "pinyin": "xiao3",
         "definition": "small, young",
         "level": "1",
-        "sentences": ""
+        "sentences": "124"
     },{
         "id": 121,
         "chinese": "小姐",
         "pinyin": "xiao3jie3",
         "definition": "miss, young lady, prostitute",
         "level": "1",
-        "sentences": ""
+        "sentences": "135"
     },{
         "id": 122,
         "chinese": "些",
         "pinyin": "xie1",
         "definition": "some",
         "level": "1",
-        "sentences": ""
+        "sentences": "37, 64, 169, 215"
     },{
         "id": 123,
         "chinese": "写",
         "pinyin": "xie3",
         "definition": "to write",
         "level": "1",
-        "sentences": ""
+        "sentences": "48, 152, 187"
     },{
         "id": 124,
         "chinese": "谢谢",
         "pinyin": "xie4xie5",
         "definition": "thank you",
         "level": "1",
-        "sentences": ""
+        "sentences": "15, 49"
     },{
         "id": 125,
         "chinese": "星期",
         "pinyin": "xing1qi1",
         "definition": "week",
         "level": "1",
-        "sentences": ""
+        "sentences": "82, 86, 98, 134, 139 "
     },{
         "id": 126,
         "chinese": "学生",
         "pinyin": "xue2sheng5",
         "definition": "student",
         "level": "1",
-        "sentences": ""
+        "sentences": "76, 79, 212, 222"
     },{
         "id": 127,
         "chinese": "学习",
         "pinyin": "xue2xi2",
         "definition": "study",
         "level": "1",
-        "sentences": ""
+        "sentences": "16, 18, 87, 107, 188"
     },{
         "id": 128,
         "chinese": "学校",
         "pinyin": "xue2xiao4",
         "definition": "school",
         "level": "1",
-        "sentences": ""
+        "sentences": "27, 76, 79, 103, 124, 142, 154, 156, 182, 200"
     },{
         "id": 129,
         "chinese": "一",
         "pinyin": "yi1",
         "definition": "one",
         "level": "1",
-        "sentences": ""
+        "sentences": "13, 14, 37, 44, 53, 54, 55, 56, 64, 81, 82, 84, 85, 86, 97, 120, 139, 149, 150, 169, 205, 213"
     },{
         "id": 130,
         "chinese": "衣服",
         "pinyin": "yi1fu5",
         "definition": "clothes",
         "level": "1",
-        "sentences": ""
+        "sentences": "122, 123, 160, 215"
     },{
         "id": 131,
         "chinese": "医生",
         "pinyin": "yi1sheng1",
         "definition": "doctor",
         "level": "1",
-        "sentences": ""
+        "sentences": "42, 147, 195, 213, 223"
     },{
         "id": 132,
         "chinese": "医院",
         "pinyin": "yi1yuan4",
         "definition": "hospital",
         "level": "1",
-        "sentences": ""
+        "sentences": "181, 223"
     },{
         "id": 133,
         "chinese": "椅子",
         "pinyin": "yi3zi5",
         "definition": "chair",
         "level": "1",
-        "sentences": ""
+        "sentences": "128, 170, 224"
     },{
         "id": 134,
         "chinese": "一点儿",
         "pinyin": "yi1dianr3",
         "definition": "a little",
         "level": "1",
-        "sentences": ""
+        "sentences": "53, 56, 120"
     },{
         "id": 135,
         "chinese": "有",
         "pinyin": "you3",
-        "definition": "",
+        "definition": "to have",
         "level": "1",
-        "sentences": ""
+        "sentences": "10, 12, 13, 14, 33, 44, 55, 56, 76, 78, 79, 83, 84, 86, 93, 97, 98, 99, 113, 164, 171, 172, 173, 174, 198, 199"
     },{
         "id": 136,
         "chinese": "月",
         "pinyin": "yue4",
         "definition": "month, moon",
         "level": "1",
-        "sentences": ""
+        "sentences": "3, 133"
     },{
         "id": 137,
         "chinese": "在",
         "pinyin": "zai4",
         "definition": "to be located at or in",
         "level": "1",
-        "sentences": ""
+        "sentences": "8, 16, 25, 54, 58, 59, 88, 90, 91, 92, 102, 103, 105, 106, 127, 128, 130, 133, 135, 136, 137, 146, 154, 159, 161, 163, 170, 172, 173, 180, 181, 182, 183, 186, 190, 193, 200, 221, 223, 224"
     },{
         "id": 138,
         "chinese": "再见",
         "pinyin": "zai4jian4",
         "definition": "see you soon",
         "level": "1",
-        "sentences": ""
+        "sentences": "225, 226"
     },{
         "id": 139,
         "chinese": "怎么",
         "pinyin": "zen3me5",
         "definition": "how",
         "level": "1",
-        "sentences": ""
+        "sentences": "69, 104, 227"
     },{
         "id": 140,
         "chinese": "怎么样",
         "pinyin": "zen3meyang4",
         "definition": "how is it? how are you?",
         "level": "1",
-        "sentences": ""
+        "sentences": "104, 227"
     },{
         "id": 141,
         "chinese": "这",
         "pinyin": "zhe4",
         "definition": "this",
         "level": "1",
-        "sentences": ""
+        "sentences": "11, 13, 21, 28, 40, 43, 52, 57, 69, 75, 76, 78, 83, 115, 148, 161, 162, 163, 168, 174, 207, 209, 215, 219, 228, 229"
     },{
         "id": 142,
         "chinese": "中国",
         "pinyin": "zhong1guo2",
         "definition": "China",
         "level": "1",
-        "sentences": ""
+        "sentences": "102, 159, 189"
     },{
         "id": 143,
         "chinese": "中午",
         "pinyin": "zhong1wu3",
         "definition": "noon",
         "level": "1",
-        "sentences": ""
+        "sentences": "36, 211, 220"
     },{
         "id": 144,
         "chinese": "住",
         "pinyin": "zhu4",
         "definition": "to live",
         "level": "1",
-        "sentences": ""
+        "sentences": "159, 161, 168, 183"
     },{
         "id": 145,
         "chinese": "桌子",
         "pinyin": "zhuo1zi5",
         "definition": "table",
         "level": "1",
-        "sentences": ""
+        "sentences": "14, 59, 128"
     },{
         "id": 146,
         "chinese": "字",
         "pinyin": "zi4",
         "definition": "character",
         "level": "1",
-        "sentences": ""
+        "sentences": "48, 69, 138, 187"
     },{
         "id": 147,
         "chinese": "昨天",
         "pinyin": "zuo2tian1",
         "definition": "yesterday",
         "level": "1",
-        "sentences": ""
+        "sentences": "80, 87, 147, 151, 155, 189, 218"
     },{
         "id": 148,
         "chinese": "做",
         "pinyin": "zuo4",
         "definition": "to do, to make",
         "level": "1",
-        "sentences": ""
+        "sentences": "101, 158, 176, 186, 193, 210, 211"
     },{
         "id": 149,
         "chinese": "座",
@@ -1055,7 +1055,7 @@
         "pinyin": "ta1men5",
         "definition": "they",
         "level": "1+",
-        "sentences": ""
+        "sentences": "68, 206"
     },{
         "id": 151,
         "chinese": "一月",
@@ -1146,7 +1146,7 @@
         "pinyin": "dao4",
         "definition": "(CL: meals, long thin things, commands)",
         "level": "1+",
-        "sentences": ""
+        "sentences": "28"
     },{
         "id": 164,
         "chinese": "早饭",
@@ -1167,49 +1167,49 @@
         "pinyin": "wan3fan4",
         "definition": "dinner",
         "level": "1+",
-        "sentences": ""
+        "sentences": "39, 89"
     },{
         "id": 167,
         "chinese": "电话",
         "pinyin": "dian4hua4",
         "definition": "phone",
         "level": "1+",
-        "sentences": "4, 41, 42"
+        "sentences": "4, 41, 42, 194"
     },{
         "id": 168,
         "chinese": "五十二",
         "pinyin": "wu3shi2er4",
         "definition": "52",
         "level": "1+",
-        "sentences": ""
+        "sentences": "86"
     },{
         "id": 169,
         "chinese": "十八",
         "pinyin": "shi2ba1",
         "definition": "18",
         "level": "1+",
-        "sentences": ""
+        "sentences": "3"
     },{
         "id": 170,
         "chinese": "二十",
         "pinyin": "er4shi2",
         "definition": "20",
         "level": "1+",
-        "sentences": ""
+        "sentences": "87"
     },{
         "id": 171,
         "chinese": "星期一",
         "pinyin": "xing1qiyi1",
         "definition": "Monday (first day of the week)",
         "level": "1+",
-        "sentences": ""
+        "sentences": "139"
     },{
         "id": 172,
         "chinese": "做饭",
         "pinyin": "zuo4fan4",
         "definition": "make food, cook",
         "level": "1+",
-        "sentences": ""
+        "sentences": "176"
     },{
         "id": 173,
         "chinese": "你们",
@@ -1223,28 +1223,28 @@
         "pinyin": "san1shi2yi1",
         "definition": "31",
         "level": "1+",
-        "sentences": ""
+        "sentences": "205"
     },{
         "id": 174,
         "chinese": "十一",
         "pinyin": "shi2yi1",
         "definition": "11",
         "level": "1+",
-        "sentences": ""
+        "sentences": "54"
     },{
         "id": 175,
         "chinese": "名",
         "pinyin": "ming2",
         "definition": "(CL: people who hold a high place in society like doctors, lawyers, etc.)",
         "level": "1+",
-        "sentences": ""
+        "sentences": "48, 138, 213"
     },{
         "id": 176,
         "chinese": "见",
         "pinyin": "jian4",
         "definition": "to see (a person), to meet",
         "level": "1+",
-        "sentences": "201"
+        "sentences": "145, 148, 177, 220, 225, 226"
     },{
         "id": 177,
         "chinese": "那儿",
