@@ -1006,9 +1006,9 @@
         "english": "We're in front of the school."
     },{
         "id": 201,
-        "chinese": "请/问",
-        "pinyin": "qing3/wen4",
-        "english": "Excuse me... (starting a question)"
+        "chinese": "请/听/我/的/说/。",
+        "pinyin": "qing3/ting1/wo3/de5/shuo1/.",
+        "english": "Please listen to what I'm saying."
     },{
         "id": 202,
         "chinese": "请/坐/！",
@@ -1146,8 +1146,43 @@
         "english": "This is my daughter's classmate."
     },{
         "id": 229,
-        "chinese": "这/是/我/女儿/的/同学/。",
-        "pinyin": "zhe4/shi4/wo3/nv3er2/de5/tong2xue2/.",
-        "english": "This is my daughter's classmate."
+        "chinese": "昨天/是/十二月/七/号/。",
+        "pinyin": "zuo2tian1/shi4/shi2er4yue4/qi1/hao4/.",
+        "english": "Tomorrow is December 7th."
+    },{
+        "id": 230,
+        "chinese": "喂/，/王/小姐/在/吗/？",
+        "pinyin": "wei4/,/wang2/xiao3jie3/zai4/ma5/?",
+        "english": "Hey, is Ms. Wang there?"
+    },{
+        "id": 231,
+        "chinese": "张/小姐/开/出租车/。",
+        "pinyin": "zhang1/xiao3jie3/kai1/chu1zu1che1/.",
+        "english": "Ms. Zhang drives a taxi."
+    },{
+        "id": 232,
+        "chinese": "你/的/猫/很/小/。",
+        "pinyin": "ni3/de5/mao1/hen3/xiao/.",
+        "english": "You cat is small."
+    },{
+        "id": 233,
+        "chinese": "我/不/喜欢/小/的/电脑/。",
+        "pinyin": "wo3/bu4/xi3huan5/xiao3/de5/dian4nao3/.",
+        "english": "I don't like small computers."
+    },{
+        "id": 234,
+        "chinese": "你/想/不/想/坐/在/那儿/？",
+        "pinyin": "ni3/xiang3/bu4/xiang3/zuo4/zai4/nar4/?",
+        "english": "Do you want to sit there?"
+    },{
+        "id": 235,
+        "chinese": "她们/座/哪儿/？",
+        "pinyin": "ta1men5/zuo4/nar3/?",
+        "english": "Where are they sitting? (group of girls or women)"
+    },{
+        "id": 236,
+        "chinese": "明天/是/六月/二十九/号/。",
+        "pinyin": "ming2tian1/shi4/liu4yue4/er4shi2jiu3/hao4/.",
+        "english": "Tomorrow is June 29th."
     }
 ]
