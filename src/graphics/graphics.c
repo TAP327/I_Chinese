@@ -39,27 +39,19 @@ TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color 
     return txt_texture;
 }
 
-Position get_proportional_pos(SDL_Window *window, const float down_shift, const float right_shift) {
+Position get_proportional_pos(SDL_Renderer *renderer, const TextTexture *texture, float down_shift, const float right_shift) {
     Position pos = {
         0,
         0
     };
-    
-    SDL_DisplayMode DM;
-    if (SDL_GetCurrentDisplayMode(0, &DM) == 0) {
-        int hs_h = DM.h;
-        int hs_w = DM.w;
-        //SDL_GetWindowSize(window, &h, &w);
-        
 
-        printf("home screen HxW: %dx", hs_h);
-        printf("%d\n", hs_w);
+    int hs_h, hs_w = 0;
+    if ((SDL_GetRendererOutputSize(renderer, &hs_w, &hs_h) == 0 )) {
 
-        pos.x = (int)(hs_w*right_shift);
-        pos.y = (int)(hs_h*down_shift);   
+        printf("pos: %d,%d\n", pos.x, pos.y);
     }
     else {
-        printf("Home screen dimensions not found.");
+        fprintf(stderr, "error: Home screen dimensions not found. (%s)\n", SDL_GetError());
     }
 
 

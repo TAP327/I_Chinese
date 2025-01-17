@@ -1,6 +1,6 @@
 #ifndef _HOME_H
 #define _HOME_H
 
-void launch_home(SDL_Window *window, SDL_Renderer *renderer);
+void launch_home(SDL_Renderer *renderer);
 
 #endif 

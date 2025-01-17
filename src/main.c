@@ -64,7 +64,7 @@ int main(void) {
                 break;
             }
         }
-        launch_home(window, renderer);
+        launch_home(renderer);
         SDL_RenderPresent(renderer);
      }
 
