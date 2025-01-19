@@ -8,6 +8,7 @@ set(CMAKE_C_STANDARD_REQUIRED ON)
 find_package(SDL2 REQUIRED CONFIG)
 find_package(SQLite3 REQUIRED)
 find_package(SDL2_ttf REQUIRED)
+find_package(SDL2_image REQUIRED)
 
 file(GLOB_RECURSE SOURCES "src/*.c")
 
@@ -17,6 +18,7 @@ target_link_libraries(I_Chinese PRIVATE
     SDL2::SDL2
     SQLite::SQLite3
     SDL2_ttf::SDL2_ttf
+    SDL2_image::SDL2_image
 )
 
 target_include_directories(I_Chinese PRIVATE ${CMAKE_SOURCE_DIR})
@@ -24,6 +26,7 @@ target_include_directories(I_Chinese PRIVATE include
     ${SDL2_INCLUDE_DIRS}
     ${SQLite3_INCLUDE_DIRS}
     ${SDL2_ttf_INCLUDE_DIRS}
+    ${SDL2_image_INCLUDE_DIRS}
 )
 
 target_compile_options(I_Chinese PRIVATE -Wall -Wextra -Wpedantic)
@@ -52,6 +55,7 @@ if(CMAKE_BUILD_TYPE STREQUAL "Debug")
     find_package(SDL2 REQUIRED CONFIG)
     find_package(SQLite3 REQUIRED)
     find_package(SDL2_ttf REQUIRED)
+    find_package(SDL2_image REQUIRED)
 
     file(GLOB_RECURSE TEST_SOURCES "tests/*.c")
     file(GLOB_RECURSE SOURCES "src/db/*.c")
@@ -62,12 +66,14 @@ if(CMAKE_BUILD_TYPE STREQUAL "Debug")
         ${SDL2_INCLUDE_DIRS}
         ${SQLite3_INCLUDE_DIRS}
         ${SDL2_ttf_INCLUDE_DIRS}
+        ${SDL2_image_INCLUDE_DIRS}
     )
     target_link_libraries(I_Chinese_Tests PRIVATE
         ${CRITERION_LIBRARIES}
         SDL2::SDL2
         SQLite::SQLite3
         SDL2_ttf::SDL2_ttf
+        SDL2_image::SDL2_image
     )
 
     set(ASSET_DIR "${CMAKE_SOURCE_DIR}/assets")

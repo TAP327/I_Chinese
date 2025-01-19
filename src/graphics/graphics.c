@@ -3,7 +3,6 @@
 #include <SDL_ttf.h>
 #include "include/graphics/graphics.h"
 #include <SDL_rwops.h>
-#include <zlib.h>
 
 
 void set_bg(SDL_Renderer *renderer) {
@@ -15,6 +14,7 @@ int get_proportional_font_size(SDL_Window *window, SDL_Renderer *renderer, const
     SDL_DisplayMode DM;
     int dm_h, dm_w = 0;
     int hs_h, hs_w = 0;
+    int proportional_size = 0;
     
     if ((SDL_GetCurrentDisplayMode(0, &DM) == 0)) {
         dm_h = DM.h;
@@ -24,7 +24,6 @@ int get_proportional_font_size(SDL_Window *window, SDL_Renderer *renderer, const
         fprintf(stderr, "error: Display mode dimensions not found. (%s)\n", SDL_GetError());
         return -1;
     }
-    int proportional_size = 0;
     if ((SDL_GetRendererOutputSize(renderer, &hs_w, &hs_h) == 0)) {
         if (hs_w <= hs_h) {
             proportional_size = ((size*hs_w)/dm_w);
