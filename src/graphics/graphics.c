@@ -17,20 +17,20 @@ int get_proportional_font_size(SDL_Window *window, SDL_Renderer *renderer, const
     int hs_h, hs_w = 0;
     
     if ((SDL_GetCurrentDisplayMode(0, &DM) == 0)) {
-        int dm_h = DM.h;
-        int dm_w = DM.w;
+        dm_h = DM.h;
+        dm_w = DM.w;
     }
     else {
         fprintf(stderr, "error: Display mode dimensions not found. (%s)\n", SDL_GetError());
         return -1;
     }
-
+    int proportional_size = 0;
     if ((SDL_GetRendererOutputSize(renderer, &hs_w, &hs_h) == 0)) {
         if (hs_w <= hs_h) {
-            int proportional_size = ((size*hs_w)/dm_w);
+            proportional_size = ((size*hs_w)/dm_w);
         }
         else {
-            int proportional_size = ((size*hs_h)/dm_h);
+            proportional_size = ((size*hs_h)/dm_h);
         }
         return proportional_size;
     }
@@ -76,8 +76,8 @@ Position get_proportional_pos(SDL_Renderer *renderer, const TextTexture *texture
 
     int hs_h, hs_w = 0;
     if ((SDL_GetRendererOutputSize(renderer, &hs_w, &hs_h) == 0 )) {
-        printf("dimensions: %dx%d\n", hs_h, hs_w);
-        printf("pos: %d,%d\n", pos.x, pos.y);
+       pos.x = ((right_shift*hs_w)/100)-(texture->width/2);
+       pos.y = ((down_shift*hs_h)/100)-(texture->height/2);
     }
     else {
         fprintf(stderr, "error: Home screen dimensions not found. (%s)\n", SDL_GetError());

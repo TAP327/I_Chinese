@@ -4,15 +4,32 @@
 #include "include/graphics/graphics.h"
 #include "include/graphics/home.h"
 
-void launch_home(SDL_Renderer *renderer) {
-    set_bg(renderer);
+void launch_home(SDL_Window *window, SDL_Renderer *renderer) {
     SDL_Color title_color = {
         .r = 50,
         .g = 255,
         .b = 225,
         .a = 255
     };
-    TextTexture title_txt = get_txt_texture(renderer, "I-Chinese", &title_color, "./assets/Freedom-10eM.ttf", 288);
-    Position title_pos = get_proportional_pos(renderer, &title_txt, 0.20, 0.10);
+    SDL_Color next_text_color = {
+        .r = 10,
+        .g = 115,
+        .b = 185,
+        .a = 255
+    };
+    
+    set_bg(renderer);
+
+    //Title texture
+    int title_size = get_proportional_font_size(window, renderer, 288);
+    TextTexture title_txt = get_txt_texture(renderer, "I-Chinese", &title_color, "./assets/Freedom-10eM.ttf", title_size);
+    Position title_pos = get_proportional_pos(renderer, &title_txt, 40, 50);
     render_txt(renderer, &title_txt, &title_pos);
+
+    //Next Text texture
+    int next_text_size = get_proportional_font_size(window, renderer, 80);
+    TextTexture next_text_txt = get_txt_texture(renderer, "Press enter to continue.", &next_text_color, "./assets/Freedom-10eM.ttf", next_text_size);
+    Position next_text_pos = get_proportional_pos(renderer, &next_text_txt, 70, 50);
+    render_txt(renderer, &next_text_txt, &next_text_pos);
+
 }
