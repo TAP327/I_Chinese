@@ -1,4 +1,6 @@
 #include <SDL.h>
+#include <SDL_image.h>
+#include <stdio.h>
 #include <SDL_timer.h>
 #include <SDL_ttf.h>
 #include "include/graphics/graphics.h"
@@ -21,15 +23,20 @@ void launch_home(SDL_Window *window, SDL_Renderer *renderer) {
     set_bg(renderer);
 
     //Title texture
-    int title_size = get_proportional_font_size(window, renderer, 288);
+    int title_size = get_proportional_font_size(renderer, 288);
     TextTexture title_txt = get_txt_texture(renderer, "I-Chinese", &title_color, "./assets/Freedom-10eM.ttf", title_size);
     Position title_pos = get_proportional_pos(renderer, &title_txt, 40, 50);
     render_txt(renderer, &title_txt, &title_pos);
 
     //Next Text texture
-    int next_text_size = get_proportional_font_size(window, renderer, 80);
+    int next_text_size = get_proportional_font_size(renderer, 80);
     TextTexture next_text_txt = get_txt_texture(renderer, "Press enter to continue.", &next_text_color, "./assets/Freedom-10eM.ttf", next_text_size);
     Position next_text_pos = get_proportional_pos(renderer, &next_text_txt, 70, 50);
     render_txt(renderer, &next_text_txt, &next_text_pos);
+
+    //Cursor texture
+    TextTexture cursor_text = get_png_texture(renderer, "Downloads/I_Chinese_cursor_text.png");
+    //Position cursor_pos = get_proportional_pos(renderer, &cursor_text, 40, 45);
+    
 
 }

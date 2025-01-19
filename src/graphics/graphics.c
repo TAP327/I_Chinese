@@ -1,4 +1,5 @@
 #include <SDL.h>
+#include <SDL_image.h>
 #include <SDL_timer.h>
 #include <SDL_ttf.h>
 #include "include/graphics/graphics.h"
@@ -10,7 +11,7 @@ void set_bg(SDL_Renderer *renderer) {
     SDL_RenderClear(renderer);
 }
 
-int get_proportional_font_size(SDL_Window *window, SDL_Renderer *renderer, const int size) {
+int get_proportional_font_size(SDL_Renderer *renderer, const int size) {
     SDL_DisplayMode DM;
     int dm_h, dm_w = 0;
     int hs_h, hs_w = 0;
@@ -65,6 +66,30 @@ TextTexture get_txt_texture(SDL_Renderer *renderer, const char *text, SDL_Color 
     txt_texture.width = surface->w;
 
     return txt_texture;
+}
+
+TextTexture get_png_texture(SDL_Renderer *renderer, const char *file) {
+    TextTexture png_texture = {
+        NULL,
+        0,
+        0
+    };
+    SDL_Surface *surface = IMG_Load(file);
+    if (!surface) {
+        fprintf(stderr, "Failed to load SDL_Surface from %s: %s\n", file, TTF_GetError());
+        return png_texture;
+    }
+    SDL_Texture *texture = SDL_CreateTextureFromSurface(renderer, surface);
+    png_texture.texture = texture;
+    if (!png_texture.texture) {
+        fprintf(stderr, "Failed to create texture from surface: %s\n", SDL_GetError());
+        return png_texture;
+    }
+
+    png_texture.height = surface->h;
+    png_texture.width = surface->w;
+
+    return png_texture;
 }
 
 Position get_proportional_pos(SDL_Renderer *renderer, const TextTexture *texture, float down_shift, const float right_shift) {
