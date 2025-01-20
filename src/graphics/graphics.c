@@ -2,8 +2,8 @@
 #include <SDL_image.h>
 #include <SDL_timer.h>
 #include <SDL_ttf.h>
-#include "include/graphics/graphics.h"
 #include <SDL_rwops.h>
+#include "include/graphics/graphics.h"
 
 
 void set_bg(SDL_Renderer *renderer) {
@@ -106,7 +106,6 @@ Position get_proportional_pos(SDL_Renderer *renderer, const TextTexture *texture
     else {
         fprintf(stderr, "error: Home screen dimensions not found. (%s)\n", SDL_GetError());
     }
-
 
     return pos;
 }

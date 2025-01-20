@@ -65,7 +65,12 @@ int main(void) {
                 break;
             }
         }
-        launch_home(window, renderer);
+
+        if (launch_home(window, renderer) != 0) {
+            running = false;
+            break;
+        }
+
         SDL_RenderPresent(renderer);
      }
 
