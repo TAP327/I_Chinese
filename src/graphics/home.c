@@ -48,10 +48,10 @@ uint8_t launch_home(SDL_Window *window, SDL_Renderer *renderer) {
     render_txt(renderer, &next_text_txt, &next_text_pos);
 
     //Cursor texture
-    TextTexture cursor_text = get_png_texture(renderer, "Downloads/I_Chinese_cursor_text.png");
+    /*TextTexture cursor_text = get_png_texture(renderer, "Downloads/I_Chinese_cursor_text.png");
     if (!cursor_text.texture) {
         return -1;
-    }
+    }*/
     //Position cursor_pos = get_proportional_pos(renderer, &cursor_text, 40, 45);
     
     return 0;
